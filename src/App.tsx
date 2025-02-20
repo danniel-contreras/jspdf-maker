@@ -1,7 +1,7 @@
 import { useState } from "react";
 import "./App.css";
 import jsPDF from "jspdf";
-import autoTable, { RowInput } from "jspdf-autotable";
+import autoTable from "jspdf-autotable";
 import QR from "./Codigo_QR.svg.png";
 
 function App() {
@@ -18,7 +18,7 @@ function App() {
     doc.roundedRect(margin, margin, rectWidth, rectHeight, radius, radius, "S");
 
     doc.setFontSize(8);
-    doc.text("DOCUMENTO TRIBUTARIO ELECTRONICO", 105, 15, { align: "center" });
+    doc.text("DOCUMENTO TRIBUTARIO ELECTRÓNICO", 105, 15, { align: "center" });
     doc.setFont("helvetica", "bold");
     doc.text("FACTURA", 105, 20, { align: "center" });
 
@@ -326,6 +326,180 @@ function App() {
           fontSize: 7,
           fontStyle: "bold",
           halign: "center",
+        },
+      },
+    });
+
+    lastAutotableY = (
+      doc as unknown as {
+        lastAutoTable: { finalY: number };
+      }
+    ).lastAutoTable.finalY;
+
+    autoTable(doc, {
+      startY: lastAutotableY + 10,
+      showHead: true,
+      theme: "plain",
+      head: [
+        [
+          "N°",
+          "Cantidad",
+          "Unidad",
+          "Descripción",
+          "Precio Unitario",
+          "Otros montos no afectos",
+          "Descuento por ítem",
+          "Ventas No Sujetas",
+          "Ventas Exentas",
+          "Ventas Gravadas",
+        ],
+      ],
+      body: [
+        [
+          "1",
+          "1.00",
+          "Unidad",
+          "Desayuno económico",
+          "1.75",
+          "0",
+          "0",
+          "0",
+          "0",
+          "1.75",
+        ],
+      ],
+      headStyles: {
+        lineWidth: 0.1,
+        lineColor: [0, 0, 0],
+        cellPadding: 1,
+        fontSize: 6.5,
+        valign: "middle",
+        halign: "center",
+      },
+      bodyStyles: {
+        lineWidth: 0.1,
+        lineColor: [0, 0, 0],
+        cellPadding: 1.5,
+        fontSize: 6,
+      },
+      columnStyles: {
+        0: {
+          cellWidth: 10,
+        },
+        1: {
+          cellWidth: 12,
+        },
+        2: {
+          cellWidth: 12,
+        },
+        3: {
+          cellWidth: 55,
+        },
+        4: {
+          cellWidth: 14,
+        },
+        5: {
+          cellWidth: 18,
+        },
+        6: {
+          cellWidth: 16,
+        },
+        7: {
+          cellWidth: 14,
+        },
+        8: {
+          cellWidth: 14,
+        },
+        9: {
+          cellWidth: "auto",
+        },
+      },
+    });
+
+    lastAutotableY = (
+      doc as unknown as {
+        lastAutoTable: { finalY: number };
+      }
+    ).lastAutoTable.finalY;
+
+    autoTable(doc, {
+      startY: lastAutotableY,
+      showHead: false,
+      theme: "plain",
+      head: [["", "", "", "", "", "", "", ""]],
+      body: [["", "", "", "", "Suma de Ventas:", "1.0", "1.0", "1.0"]],
+      bodyStyles: { cellPadding: 1.5, fontSize: 6 },
+      columnStyles: {
+        0: {
+          cellWidth: 10,
+        },
+        1: {
+          cellWidth: 12,
+        },
+        2: {
+          cellWidth: 12,
+        },
+        3: {
+          cellWidth: 55,
+        },
+        4: {
+          cellWidth: 48,
+          lineWidth: 0.1,
+          lineColor: [0, 0, 0],
+        },
+        5: {
+          cellWidth: 14,
+          lineWidth: 0.1,
+          lineColor: [0, 0, 0],
+        },
+        6: {
+          cellWidth: 14,
+          lineWidth: 0.1,
+          lineColor: [0, 0, 0],
+        },
+        7: {
+          cellWidth: "auto",
+          lineWidth: 0.1,
+          lineColor: [0, 0, 0],
+        },
+      },
+    });
+
+    lastAutotableY = (
+      doc as unknown as {
+        lastAutoTable: { finalY: number };
+      }
+    ).lastAutoTable.finalY;
+
+    autoTable(doc, {
+      startY: lastAutotableY,
+      showHead: false,
+      theme: "plain",
+      head: [["", "", "", "", "", ""]],
+      body: [["", "", "", "", "title", "value"]],
+      bodyStyles: { cellPadding: 1.5, fontSize: 6 },
+      columnStyles: {
+        0: {
+          cellWidth: 10,
+        },
+        1: {
+          cellWidth: 12,
+        },
+        2: {
+          cellWidth: 12,
+        },
+        3: {
+          cellWidth: 55,
+        },
+        4: {
+          cellWidth: 76,
+          lineWidth: 0.1,
+          lineColor: [0, 0, 0],
+        },
+        5: {
+          cellWidth: "auto",
+          lineWidth: 0.1,
+          lineColor: [0, 0, 0],
         },
       },
     });
