@@ -1,0 +1,1564 @@
+[
+    [
+        {
+            "account": "1101",
+            "description": "EFECTIVO Y EQUIVALENTES DE EFECTIVO",
+            "parciales": 0,
+            "debe": "23771.25",
+            "haber": "0.00",
+            "majorAccount": "11"
+        },
+        {
+            "account": "110101",
+            "description": "CAJA",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "1101"
+        },
+        {
+            "account": "11010101",
+            "description": "REGISTRO DE VENTAS DEL DIA - LIBERTAD",
+            "parciales": 23771.25,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "110101"
+        }
+    ],
+    [
+        {
+            "account": "1101",
+            "description": "EFECTIVO Y EQUIVALENTES DE EFECTIVO",
+            "parciales": 0,
+            "debe": "24093.99",
+            "haber": "0.00",
+            "majorAccount": "11"
+        },
+        {
+            "account": "110101",
+            "description": "CAJA",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "1101"
+        },
+        {
+            "account": "11010101",
+            "description": "REGISTRO DE VENTAS DEL DIA - SANTA TECLA 2",
+            "parciales": 24093.99,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "110101"
+        }
+    ],
+    [
+        {
+            "account": "1101",
+            "description": "EFECTIVO Y EQUIVALENTES DE EFECTIVO",
+            "parciales": 0,
+            "debe": "10.00",
+            "haber": "0.00",
+            "majorAccount": "11"
+        },
+        {
+            "account": "110101",
+            "description": "CAJA",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "1101"
+        },
+        {
+            "account": "11010101",
+            "description": "REGISTRO DE VENTAS DEL DIA - ESPAÑA 1",
+            "parciales": 10,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "110101"
+        }
+    ],
+    [
+        {
+            "account": "1101",
+            "description": "EFECTIVO Y EQUIVALENTES DE EFECTIVO",
+            "parciales": 0,
+            "debe": "53023.46",
+            "haber": "0.00",
+            "majorAccount": "11"
+        },
+        {
+            "account": "110101",
+            "description": "CAJA",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "1101"
+        },
+        {
+            "account": "11010101",
+            "description": "REGISTRO DE VENTAS DEL DIA - ESPAÑA 2",
+            "parciales": 53023.46,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "110101"
+        }
+    ],
+    [
+        {
+            "account": "1101",
+            "description": "EFECTIVO Y EQUIVALENTES DE EFECTIVO",
+            "parciales": 0,
+            "debe": "27402.95",
+            "haber": "0.00",
+            "majorAccount": "11"
+        },
+        {
+            "account": "110101",
+            "description": "CAJA",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "1101"
+        },
+        {
+            "account": "11010101",
+            "description": "REGISTRO DE VENTAS DEL DIA - SAN MARTIN",
+            "parciales": 27402.95,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "110101"
+        }
+    ],
+    [
+        {
+            "account": "1101",
+            "description": "EFECTIVO Y EQUIVALENTES DE EFECTIVO",
+            "parciales": 0,
+            "debe": "22418.85",
+            "haber": "0.00",
+            "majorAccount": "11"
+        },
+        {
+            "account": "110101",
+            "description": "CAJA",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "1101"
+        },
+        {
+            "account": "11010101",
+            "description": "REGISTRO DE VENTAS DEL DIA - ESPAÑA 3",
+            "parciales": 22418.85,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "110101"
+        }
+    ],
+    [
+        {
+            "account": "1101",
+            "description": "EFECTIVO Y EQUIVALENTES DE EFECTIVO",
+            "parciales": 0,
+            "debe": "27627.00",
+            "haber": "0.00",
+            "majorAccount": "11"
+        },
+        {
+            "account": "110101",
+            "description": "CAJA",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "1101"
+        },
+        {
+            "account": "11010101",
+            "description": "REGISTRO DE VENTAS DEL DIA - SANTA TECLA 1",
+            "parciales": 27627,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "110101"
+        }
+    ],
+    [
+        {
+            "account": "1101",
+            "description": "EFECTIVO Y EQUIVALENTES DE EFECTIVO",
+            "parciales": 0,
+            "debe": "20922.65",
+            "haber": "0.00",
+            "majorAccount": "11"
+        },
+        {
+            "account": "110101",
+            "description": "CAJA",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "1101"
+        },
+        {
+            "account": "11010101",
+            "description": "REGISTRO DE VENTAS DEL DIA - MERCADO CENTRAL",
+            "parciales": 20922.65,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "110101"
+        }
+    ],
+    [
+        {
+            "account": "1101",
+            "description": "EFECTIVO Y EQUIVALENTES DE EFECTIVO",
+            "parciales": 0,
+            "debe": "24632.71",
+            "haber": "0.00",
+            "majorAccount": "11"
+        },
+        {
+            "account": "110101",
+            "description": "CAJA",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "1101"
+        },
+        {
+            "account": "11010101",
+            "description": "REGISTRO DE VENTAS DEL DIA - SOYAPANGO",
+            "parciales": 24632.71,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "110101"
+        }
+    ],
+    [
+        {
+            "account": "1101",
+            "description": "EFECTIVO Y EQUIVALENTES DE EFECTIVO",
+            "parciales": 0,
+            "debe": "31155.10",
+            "haber": "0.00",
+            "majorAccount": "11"
+        },
+        {
+            "account": "110101",
+            "description": "CAJA",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "1101"
+        },
+        {
+            "account": "11010101",
+            "description": "REGISTRO DE VENTAS DEL DIA - ILOBASCO",
+            "parciales": 31155.1,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "110101"
+        }
+    ],
+    [
+        {
+            "account": "1101",
+            "description": "EFECTIVO Y EQUIVALENTES DE EFECTIVO",
+            "parciales": 0,
+            "debe": "48558.70",
+            "haber": "0.00",
+            "majorAccount": "11"
+        },
+        {
+            "account": "110101",
+            "description": "CAJA",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "1101"
+        },
+        {
+            "account": "11010101",
+            "description": "REGISTRO DE VENTAS DEL DIA - SANTA TECLA 3",
+            "parciales": 48558.7,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "110101"
+        }
+    ],
+    [
+        {
+            "account": "1101",
+            "description": "EFECTIVO Y EQUIVALENTES DE EFECTIVO",
+            "parciales": 0,
+            "debe": "45820.85",
+            "haber": "0.00",
+            "majorAccount": "11"
+        },
+        {
+            "account": "110101",
+            "description": "CAJA",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "1101"
+        },
+        {
+            "account": "11010101",
+            "description": "REGISTRO DE VENTAS DEL DIA - SONSONATE",
+            "parciales": 45820.85,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "110101"
+        }
+    ],
+    [
+        {
+            "account": "1101",
+            "description": "EFECTIVO Y EQUIVALENTES DE EFECTIVO",
+            "parciales": 0,
+            "debe": "42273.70",
+            "haber": "0.00",
+            "majorAccount": "11"
+        },
+        {
+            "account": "110101",
+            "description": "CAJA",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "1101"
+        },
+        {
+            "account": "11010101",
+            "description": "REGISTRO DE VENTAS DEL DIA - SANTA ANA",
+            "parciales": 42273.7,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "110101"
+        }
+    ],
+    [
+        {
+            "account": "2108",
+            "description": "IVA - DÉBITO FISCAL",
+            "parciales": 0,
+            "debe": "0.00",
+            "haber": "2734.75",
+            "majorAccount": "21"
+        },
+        {
+            "account": "210801",
+            "description": "IVA - DÉBITO FISCAL",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "2108"
+        },
+        {
+            "account": "21080101",
+            "description": "IVA - DÉBITO FISCAL FACTURAS CONSUMIDOR FINAL",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "210801"
+        },
+        {
+            "account": "2108010104",
+            "description": "REGISTRO DE VENTAS DEL DIA - LIBERTAD",
+            "parciales": 2734.75,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "21080101"
+        }
+    ],
+    [
+        {
+            "account": "2108",
+            "description": "IVA - DÉBITO FISCAL",
+            "parciales": 0,
+            "debe": "0.00",
+            "haber": "1.15",
+            "majorAccount": "21"
+        },
+        {
+            "account": "210801",
+            "description": "IVA - DÉBITO FISCAL",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "2108"
+        },
+        {
+            "account": "21080101",
+            "description": "IVA - DÉBITO FISCAL FACTURAS CONSUMIDOR FINAL",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "210801"
+        },
+        {
+            "account": "2108010104",
+            "description": "REGISTRO DE VENTAS DEL DIA - ESPAÑA 1",
+            "parciales": 1.15,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "21080101"
+        }
+    ],
+    [
+        {
+            "account": "2108",
+            "description": "IVA - DÉBITO FISCAL",
+            "parciales": 0,
+            "debe": "0.00",
+            "haber": "6056.15",
+            "majorAccount": "21"
+        },
+        {
+            "account": "210801",
+            "description": "IVA - DÉBITO FISCAL",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "2108"
+        },
+        {
+            "account": "21080101",
+            "description": "IVA - DÉBITO FISCAL FACTURAS CONSUMIDOR FINAL",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "210801"
+        },
+        {
+            "account": "2108010104",
+            "description": "REGISTRO DE VENTAS DEL DIA - ESPAÑA 2",
+            "parciales": 6056.15,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "21080101"
+        }
+    ],
+    [
+        {
+            "account": "2108",
+            "description": "IVA - DÉBITO FISCAL",
+            "parciales": 0,
+            "debe": "0.00",
+            "haber": "3172.36",
+            "majorAccount": "21"
+        },
+        {
+            "account": "210801",
+            "description": "IVA - DÉBITO FISCAL",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "2108"
+        },
+        {
+            "account": "21080101",
+            "description": "IVA - DÉBITO FISCAL FACTURAS CONSUMIDOR FINAL",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "210801"
+        },
+        {
+            "account": "2108010104",
+            "description": "REGISTRO DE VENTAS DEL DIA - SANTA TECLA 1",
+            "parciales": 3172.36,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "21080101"
+        }
+    ],
+    [
+        {
+            "account": "2108",
+            "description": "IVA - DÉBITO FISCAL",
+            "parciales": 0,
+            "debe": "0.00",
+            "haber": "2579.16",
+            "majorAccount": "21"
+        },
+        {
+            "account": "210801",
+            "description": "IVA - DÉBITO FISCAL",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "2108"
+        },
+        {
+            "account": "21080101",
+            "description": "IVA - DÉBITO FISCAL FACTURAS CONSUMIDOR FINAL",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "210801"
+        },
+        {
+            "account": "2108010104",
+            "description": "REGISTRO DE VENTAS DEL DIA - ESPAÑA 3",
+            "parciales": 2579.16,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "21080101"
+        }
+    ],
+    [
+        {
+            "account": "2108",
+            "description": "IVA - DÉBITO FISCAL",
+            "parciales": 0,
+            "debe": "0.00",
+            "haber": "2407.03",
+            "majorAccount": "21"
+        },
+        {
+            "account": "210801",
+            "description": "IVA - DÉBITO FISCAL",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "2108"
+        },
+        {
+            "account": "21080101",
+            "description": "IVA - DÉBITO FISCAL FACTURAS CONSUMIDOR FINAL",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "210801"
+        },
+        {
+            "account": "2108010104",
+            "description": "REGISTRO DE VENTAS DEL DIA - MERCADO CENTRAL",
+            "parciales": 2407.03,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "21080101"
+        }
+    ],
+    [
+        {
+            "account": "2108",
+            "description": "IVA - DÉBITO FISCAL",
+            "parciales": 0,
+            "debe": "0.00",
+            "haber": "3584.22",
+            "majorAccount": "21"
+        },
+        {
+            "account": "210801",
+            "description": "IVA - DÉBITO FISCAL",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "2108"
+        },
+        {
+            "account": "21080101",
+            "description": "IVA - DÉBITO FISCAL FACTURAS CONSUMIDOR FINAL",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "210801"
+        },
+        {
+            "account": "2108010104",
+            "description": "REGISTRO DE VENTAS DEL DIA - ILOBASCO",
+            "parciales": 3584.22,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "21080101"
+        }
+    ],
+    [
+        {
+            "account": "2108",
+            "description": "IVA - DÉBITO FISCAL",
+            "parciales": 0,
+            "debe": "0.00",
+            "haber": "2828.00",
+            "majorAccount": "21"
+        },
+        {
+            "account": "210801",
+            "description": "IVA - DÉBITO FISCAL",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "2108"
+        },
+        {
+            "account": "21080101",
+            "description": "IVA - DÉBITO FISCAL FACTURAS CONSUMIDOR FINAL",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "210801"
+        },
+        {
+            "account": "2108010104",
+            "description": "REGISTRO DE VENTAS DEL DIA - SOYAPANGO",
+            "parciales": 2828,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "21080101"
+        }
+    ],
+    [
+        {
+            "account": "2108",
+            "description": "IVA - DÉBITO FISCAL",
+            "parciales": 0,
+            "debe": "0.00",
+            "haber": "3152.55",
+            "majorAccount": "21"
+        },
+        {
+            "account": "210801",
+            "description": "IVA - DÉBITO FISCAL",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "2108"
+        },
+        {
+            "account": "21080101",
+            "description": "IVA - DÉBITO FISCAL FACTURAS CONSUMIDOR FINAL",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "210801"
+        },
+        {
+            "account": "2108010104",
+            "description": "REGISTRO DE VENTAS DEL DIA - SAN MARTIN",
+            "parciales": 3152.55,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "21080101"
+        }
+    ],
+    [
+        {
+            "account": "2108",
+            "description": "IVA - DÉBITO FISCAL",
+            "parciales": 0,
+            "debe": "0.00",
+            "haber": "2765.24",
+            "majorAccount": "21"
+        },
+        {
+            "account": "210801",
+            "description": "IVA - DÉBITO FISCAL",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "2108"
+        },
+        {
+            "account": "21080101",
+            "description": "IVA - DÉBITO FISCAL FACTURAS CONSUMIDOR FINAL",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "210801"
+        },
+        {
+            "account": "2108010104",
+            "description": "REGISTRO DE VENTAS DEL DIA - SANTA TECLA 2",
+            "parciales": 2765.24,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "21080101"
+        }
+    ],
+    [
+        {
+            "account": "2108",
+            "description": "IVA - DÉBITO FISCAL",
+            "parciales": 0,
+            "debe": "0.00",
+            "haber": "5543.45",
+            "majorAccount": "21"
+        },
+        {
+            "account": "210801",
+            "description": "IVA - DÉBITO FISCAL",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "2108"
+        },
+        {
+            "account": "21080101",
+            "description": "IVA - DÉBITO FISCAL FACTURAS CONSUMIDOR FINAL",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "210801"
+        },
+        {
+            "account": "2108010104",
+            "description": "REGISTRO DE VENTAS DEL DIA - SANTA TECLA 3",
+            "parciales": 5543.45,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "21080101"
+        }
+    ],
+    [
+        {
+            "account": "2108",
+            "description": "IVA - DÉBITO FISCAL",
+            "parciales": 0,
+            "debe": "0.00",
+            "haber": "5271.43",
+            "majorAccount": "21"
+        },
+        {
+            "account": "210801",
+            "description": "IVA - DÉBITO FISCAL",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "2108"
+        },
+        {
+            "account": "21080101",
+            "description": "IVA - DÉBITO FISCAL FACTURAS CONSUMIDOR FINAL",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "210801"
+        },
+        {
+            "account": "2108010104",
+            "description": "REGISTRO DE VENTAS DEL DIA - SONSONATE",
+            "parciales": 5271.43,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "21080101"
+        }
+    ],
+    [
+        {
+            "account": "2108",
+            "description": "IVA - DÉBITO FISCAL",
+            "parciales": 0,
+            "debe": "0.00",
+            "haber": "4863.35",
+            "majorAccount": "21"
+        },
+        {
+            "account": "210801",
+            "description": "IVA - DÉBITO FISCAL",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "2108"
+        },
+        {
+            "account": "21080101",
+            "description": "IVA - DÉBITO FISCAL FACTURAS CONSUMIDOR FINAL",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "210801"
+        },
+        {
+            "account": "2108010104",
+            "description": "REGISTRO DE VENTAS DEL DIA - SANTA ANA",
+            "parciales": 4863.35,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "21080101"
+        }
+    ],
+    [
+        {
+            "account": "2108",
+            "description": "IVA - DÉBITO FISCAL",
+            "parciales": 0,
+            "debe": "0.00",
+            "haber": "5.97",
+            "majorAccount": "21"
+        },
+        {
+            "account": "210801",
+            "description": "IVA - DÉBITO FISCAL",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "2108"
+        },
+        {
+            "account": "21080102",
+            "description": "IVA - DÉBITO FISCAL COMPROBANTES DE CREDITO FISCAL",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "210801"
+        },
+        {
+            "account": "2108010204",
+            "description": "REGISTRO DE VENTAS DEL DIA - SANTA TECLA 1",
+            "parciales": 5.97,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "21080102"
+        }
+    ],
+    [
+        {
+            "account": "2108",
+            "description": "IVA - DÉBITO FISCAL",
+            "parciales": 0,
+            "debe": "0.00",
+            "haber": "43.89",
+            "majorAccount": "21"
+        },
+        {
+            "account": "210801",
+            "description": "IVA - DÉBITO FISCAL",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "2108"
+        },
+        {
+            "account": "21080102",
+            "description": "IVA - DÉBITO FISCAL COMPROBANTES DE CREDITO FISCAL",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "210801"
+        },
+        {
+            "account": "2108010204",
+            "description": "REGISTRO DE VENTAS DEL DIA - ESPAÑA 2",
+            "parciales": 43.89,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "21080102"
+        }
+    ],
+    [
+        {
+            "account": "2108",
+            "description": "IVA - DÉBITO FISCAL",
+            "parciales": 0,
+            "debe": "0.00",
+            "haber": "5.85",
+            "majorAccount": "21"
+        },
+        {
+            "account": "210801",
+            "description": "IVA - DÉBITO FISCAL",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "2108"
+        },
+        {
+            "account": "21080102",
+            "description": "IVA - DÉBITO FISCAL COMPROBANTES DE CREDITO FISCAL",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "210801"
+        },
+        {
+            "account": "2108010204",
+            "description": "REGISTRO DE VENTAS DEL DIA - SOYAPANGO",
+            "parciales": 5.85,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "21080102"
+        }
+    ],
+    [
+        {
+            "account": "2108",
+            "description": "IVA - DÉBITO FISCAL",
+            "parciales": 0,
+            "debe": "0.00",
+            "haber": "6.64",
+            "majorAccount": "21"
+        },
+        {
+            "account": "210801",
+            "description": "IVA - DÉBITO FISCAL",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "2108"
+        },
+        {
+            "account": "21080102",
+            "description": "IVA - DÉBITO FISCAL COMPROBANTES DE CREDITO FISCAL",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "210801"
+        },
+        {
+            "account": "2108010204",
+            "description": "REGISTRO DE VENTAS DEL DIA - SANTA TECLA 2",
+            "parciales": 6.64,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "21080102"
+        }
+    ],
+    [
+        {
+            "account": "2108",
+            "description": "IVA - DÉBITO FISCAL",
+            "parciales": 0,
+            "debe": "0.00",
+            "haber": "42.95",
+            "majorAccount": "21"
+        },
+        {
+            "account": "210801",
+            "description": "IVA - DÉBITO FISCAL",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "2108"
+        },
+        {
+            "account": "21080102",
+            "description": "IVA - DÉBITO FISCAL COMPROBANTES DE CREDITO FISCAL",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "210801"
+        },
+        {
+            "account": "2108010204",
+            "description": "REGISTRO DE VENTAS DEL DIA - SANTA TECLA 3",
+            "parciales": 42.95,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "21080102"
+        }
+    ],
+    [
+        {
+            "account": "5101",
+            "description": "INGRESOS OPERACIONALES",
+            "parciales": 0,
+            "debe": "0.00",
+            "haber": "337.61",
+            "majorAccount": "51"
+        },
+        {
+            "account": "510101",
+            "description": "VENTAS LOCALES SALA DE VENTAS",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "5101"
+        },
+        {
+            "account": "51010101",
+            "description": "VENTAS A CONTRIBUYENTES",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "510101"
+        },
+        {
+            "account": "5101010104",
+            "description": "REGISTRO DE VENTAS DEL DIA - ESPAÑA 2",
+            "parciales": 337.61,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "51010101"
+        }
+    ],
+    [
+        {
+            "account": "5101",
+            "description": "INGRESOS OPERACIONALES",
+            "parciales": 0,
+            "debe": "0.00",
+            "haber": "45.00",
+            "majorAccount": "51"
+        },
+        {
+            "account": "510101",
+            "description": "VENTAS LOCALES SALA DE VENTAS",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "5101"
+        },
+        {
+            "account": "51010101",
+            "description": "VENTAS A CONTRIBUYENTES",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "510101"
+        },
+        {
+            "account": "5101010104",
+            "description": "REGISTRO DE VENTAS DEL DIA - SOYAPANGO",
+            "parciales": 45,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "51010101"
+        }
+    ],
+    [
+        {
+            "account": "5101",
+            "description": "INGRESOS OPERACIONALES",
+            "parciales": 0,
+            "debe": "0.00",
+            "haber": "51.06",
+            "majorAccount": "51"
+        },
+        {
+            "account": "510101",
+            "description": "VENTAS LOCALES SALA DE VENTAS",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "5101"
+        },
+        {
+            "account": "51010101",
+            "description": "VENTAS A CONTRIBUYENTES",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "510101"
+        },
+        {
+            "account": "5101010104",
+            "description": "REGISTRO DE VENTAS DEL DIA - SANTA TECLA 2",
+            "parciales": 51.06,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "51010101"
+        }
+    ],
+    [
+        {
+            "account": "5101",
+            "description": "INGRESOS OPERACIONALES",
+            "parciales": 0,
+            "debe": "0.00",
+            "haber": "330.35",
+            "majorAccount": "51"
+        },
+        {
+            "account": "510101",
+            "description": "VENTAS LOCALES SALA DE VENTAS",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "5101"
+        },
+        {
+            "account": "51010101",
+            "description": "VENTAS A CONTRIBUYENTES",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "510101"
+        },
+        {
+            "account": "5101010104",
+            "description": "REGISTRO DE VENTAS DEL DIA - SANTA TECLA 3",
+            "parciales": 330.35,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "51010101"
+        }
+    ],
+    [
+        {
+            "account": "5101",
+            "description": "INGRESOS OPERACIONALES",
+            "parciales": 0,
+            "debe": "0.00",
+            "haber": "45.93",
+            "majorAccount": "51"
+        },
+        {
+            "account": "510101",
+            "description": "VENTAS LOCALES SALA DE VENTAS",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "5101"
+        },
+        {
+            "account": "51010101",
+            "description": "VENTAS A CONTRIBUYENTES",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "510101"
+        },
+        {
+            "account": "5101010104",
+            "description": "REGISTRO DE VENTAS DEL DIA - SANTA TECLA 1",
+            "parciales": 45.93,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "51010101"
+        }
+    ],
+    [
+        {
+            "account": "5101",
+            "description": "INGRESOS OPERACIONALES",
+            "parciales": 0,
+            "debe": "0.00",
+            "haber": "27570.88",
+            "majorAccount": "51"
+        },
+        {
+            "account": "510101",
+            "description": "VENTAS LOCALES SALA DE VENTAS",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "5101"
+        },
+        {
+            "account": "51010102",
+            "description": "VENTAS A CONSUMIDOR FINAL",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "510101"
+        },
+        {
+            "account": "5101010204",
+            "description": "REGISTRO DE VENTAS DEL DIA - ILOBASCO",
+            "parciales": 27570.88,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "51010102"
+        }
+    ],
+    [
+        {
+            "account": "5101",
+            "description": "INGRESOS OPERACIONALES",
+            "parciales": 0,
+            "debe": "0.00",
+            "haber": "19839.69",
+            "majorAccount": "51"
+        },
+        {
+            "account": "510101",
+            "description": "VENTAS LOCALES SALA DE VENTAS",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "5101"
+        },
+        {
+            "account": "51010102",
+            "description": "VENTAS A CONSUMIDOR FINAL",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "510101"
+        },
+        {
+            "account": "5101010204",
+            "description": "REGISTRO DE VENTAS DEL DIA - ESPAÑA 3",
+            "parciales": 19839.69,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "51010102"
+        }
+    ],
+    [
+        {
+            "account": "5101",
+            "description": "INGRESOS OPERACIONALES",
+            "parciales": 0,
+            "debe": "0.00",
+            "haber": "46585.81",
+            "majorAccount": "51"
+        },
+        {
+            "account": "510101",
+            "description": "VENTAS LOCALES SALA DE VENTAS",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "5101"
+        },
+        {
+            "account": "51010102",
+            "description": "VENTAS A CONSUMIDOR FINAL",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "510101"
+        },
+        {
+            "account": "5101010204",
+            "description": "REGISTRO DE VENTAS DEL DIA - ESPAÑA 2",
+            "parciales": 46585.81,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "51010102"
+        }
+    ],
+    [
+        {
+            "account": "5101",
+            "description": "INGRESOS OPERACIONALES",
+            "parciales": 0,
+            "debe": "0.00",
+            "haber": "24402.74",
+            "majorAccount": "51"
+        },
+        {
+            "account": "510101",
+            "description": "VENTAS LOCALES SALA DE VENTAS",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "5101"
+        },
+        {
+            "account": "51010102",
+            "description": "VENTAS A CONSUMIDOR FINAL",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "510101"
+        },
+        {
+            "account": "5101010204",
+            "description": "REGISTRO DE VENTAS DEL DIA - SANTA TECLA 1",
+            "parciales": 24402.74,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "51010102"
+        }
+    ],
+    [
+        {
+            "account": "5101",
+            "description": "INGRESOS OPERACIONALES",
+            "parciales": 0,
+            "debe": "0.00",
+            "haber": "42641.95",
+            "majorAccount": "51"
+        },
+        {
+            "account": "510101",
+            "description": "VENTAS LOCALES SALA DE VENTAS",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "5101"
+        },
+        {
+            "account": "51010102",
+            "description": "VENTAS A CONSUMIDOR FINAL",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "510101"
+        },
+        {
+            "account": "5101010204",
+            "description": "REGISTRO DE VENTAS DEL DIA - SANTA TECLA 3",
+            "parciales": 42641.95,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "51010102"
+        }
+    ],
+    [
+        {
+            "account": "5101",
+            "description": "INGRESOS OPERACIONALES",
+            "parciales": 0,
+            "debe": "0.00",
+            "haber": "8.85",
+            "majorAccount": "51"
+        },
+        {
+            "account": "510101",
+            "description": "VENTAS LOCALES SALA DE VENTAS",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "5101"
+        },
+        {
+            "account": "51010102",
+            "description": "VENTAS A CONSUMIDOR FINAL",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "510101"
+        },
+        {
+            "account": "5101010204",
+            "description": "REGISTRO DE VENTAS DEL DIA - ESPAÑA 1",
+            "parciales": 8.85,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "51010102"
+        }
+    ],
+    [
+        {
+            "account": "5101",
+            "description": "INGRESOS OPERACIONALES",
+            "parciales": 0,
+            "debe": "0.00",
+            "haber": "24250.40",
+            "majorAccount": "51"
+        },
+        {
+            "account": "510101",
+            "description": "VENTAS LOCALES SALA DE VENTAS",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "5101"
+        },
+        {
+            "account": "51010102",
+            "description": "VENTAS A CONSUMIDOR FINAL",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "510101"
+        },
+        {
+            "account": "5101010204",
+            "description": "REGISTRO DE VENTAS DEL DIA - SAN MARTIN",
+            "parciales": 24250.4,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "51010102"
+        }
+    ],
+    [
+        {
+            "account": "5101",
+            "description": "INGRESOS OPERACIONALES",
+            "parciales": 0,
+            "debe": "0.00",
+            "haber": "21753.86",
+            "majorAccount": "51"
+        },
+        {
+            "account": "510101",
+            "description": "VENTAS LOCALES SALA DE VENTAS",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "5101"
+        },
+        {
+            "account": "51010102",
+            "description": "VENTAS A CONSUMIDOR FINAL",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "510101"
+        },
+        {
+            "account": "5101010204",
+            "description": "REGISTRO DE VENTAS DEL DIA - SOYAPANGO",
+            "parciales": 21753.86,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "51010102"
+        }
+    ],
+    [
+        {
+            "account": "5101",
+            "description": "INGRESOS OPERACIONALES",
+            "parciales": 0,
+            "debe": "0.00",
+            "haber": "21036.50",
+            "majorAccount": "51"
+        },
+        {
+            "account": "510101",
+            "description": "VENTAS LOCALES SALA DE VENTAS",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "5101"
+        },
+        {
+            "account": "51010102",
+            "description": "VENTAS A CONSUMIDOR FINAL",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "510101"
+        },
+        {
+            "account": "5101010204",
+            "description": "REGISTRO DE VENTAS DEL DIA - LIBERTAD",
+            "parciales": 21036.5,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "51010102"
+        }
+    ],
+    [
+        {
+            "account": "5101",
+            "description": "INGRESOS OPERACIONALES",
+            "parciales": 0,
+            "debe": "0.00",
+            "haber": "40549.42",
+            "majorAccount": "51"
+        },
+        {
+            "account": "510101",
+            "description": "VENTAS LOCALES SALA DE VENTAS",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "5101"
+        },
+        {
+            "account": "51010102",
+            "description": "VENTAS A CONSUMIDOR FINAL",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "510101"
+        },
+        {
+            "account": "5101010204",
+            "description": "REGISTRO DE VENTAS DEL DIA - SONSONATE",
+            "parciales": 40549.42,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "51010102"
+        }
+    ],
+    [
+        {
+            "account": "5101",
+            "description": "INGRESOS OPERACIONALES",
+            "parciales": 0,
+            "debe": "0.00",
+            "haber": "18515.62",
+            "majorAccount": "51"
+        },
+        {
+            "account": "510101",
+            "description": "VENTAS LOCALES SALA DE VENTAS",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "5101"
+        },
+        {
+            "account": "51010102",
+            "description": "VENTAS A CONSUMIDOR FINAL",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "510101"
+        },
+        {
+            "account": "5101010204",
+            "description": "REGISTRO DE VENTAS DEL DIA - MERCADO CENTRAL",
+            "parciales": 18515.62,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "51010102"
+        }
+    ],
+    [
+        {
+            "account": "5101",
+            "description": "INGRESOS OPERACIONALES",
+            "parciales": 0,
+            "debe": "0.00",
+            "haber": "21271.05",
+            "majorAccount": "51"
+        },
+        {
+            "account": "510101",
+            "description": "VENTAS LOCALES SALA DE VENTAS",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "5101"
+        },
+        {
+            "account": "51010102",
+            "description": "VENTAS A CONSUMIDOR FINAL",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "510101"
+        },
+        {
+            "account": "5101010204",
+            "description": "REGISTRO DE VENTAS DEL DIA - SANTA TECLA 2",
+            "parciales": 21271.05,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "51010102"
+        }
+    ],
+    [
+        {
+            "account": "5101",
+            "description": "INGRESOS OPERACIONALES",
+            "parciales": 0,
+            "debe": "0.00",
+            "haber": "37410.35",
+            "majorAccount": "51"
+        },
+        {
+            "account": "510101",
+            "description": "VENTAS LOCALES SALA DE VENTAS",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "5101"
+        },
+        {
+            "account": "51010102",
+            "description": "VENTAS A CONSUMIDOR FINAL",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "510101"
+        },
+        {
+            "account": "5101010204",
+            "description": "REGISTRO DE VENTAS DEL DIA - SANTA ANA",
+            "parciales": 37410.35,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "51010102"
+        }
+    ]
+]

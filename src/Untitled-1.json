@@ -1,0 +1,89 @@
+[
+        {
+            "account": "1101",
+            "description": "EFECTIVO Y EQUIVALENTES DE EFECTIVO",
+            "parciales": 0,
+            "debe": "420.30",
+            "haber": "0.00",
+            "majorAccount": "11"
+        },
+        {
+            "account": "110101",
+            "description": "CAJA",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "1101"
+        },
+        {
+            "account": "11010101",
+            "description": "REGISTRO DE VENTAS DEL DIA",
+            "parciales": 420.3,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "110101"
+        }
+    ],
+    [
+        {
+            "account": "1101",
+            "description": "EFECTIVO Y EQUIVALENTES DE EFECTIVO",
+            "parciales": 0,
+            "debe": "434.00",
+            "haber": "0.00",
+            "majorAccount": "11"
+        },
+        {
+            "account": "110101",
+            "description": "CAJA",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "1101"
+        },
+        {
+            "account": "11010101",
+            "description": "REGISTRO DE VENTAS DEL DIA",
+            "parciales": 434,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "110101"
+        }
+    ],
+
+    debe quedar 
+
+    [
+        {
+            "account": "1101",
+            "description": "EFECTIVO Y EQUIVALENTES DE EFECTIVO",
+            "parciales": 0,
+            "debe": "854.30",
+            "haber": "0.00",
+            "majorAccount": "11"
+        },
+        {
+            "account": "110101",
+            "description": "CAJA",
+            "parciales": 0,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "1101"
+        },
+        {
+            "account": "11010101",
+            "description": "REGISTRO DE VENTAS DEL DIA",
+            "parciales": 420.3,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "110101"
+        },
+        {
+            "account": "11010101",
+            "description": "REGISTRO DE VENTAS DEL DIA",
+            "parciales": 434,
+            "debe": 0,
+            "haber": 0,
+            "majorAccount": "110101"
+        }
+    ],
