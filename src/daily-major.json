@@ -1,0 +1,2138 @@
+{
+    "majorAccounts": [
+        {
+            "id": 3,
+            "code": "1101",
+            "name": "EFECTIVO Y EQUIVALENTES DE EFECTIVO",
+            "majorAccount": "11",
+            "accountLevel": "3",
+            "accountType": "Mayor",
+            "uploadAs": "Activo",
+            "subAccount": true,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [
+                {
+                    "conceptOfTheTransaction": "REGISTRO DE VENTAS DEL DIA - LIBERTAD ",
+                    "should": "14452.80",
+                    "see": "0.00",
+                    "item": {
+                        "noPartida": 2,
+                        "date": "2025-03-05"
+                    },
+                    "accountCatalog": {
+                        "code": "11010101",
+                        "name": "CAJA GENERAL"
+                    }
+                },
+                {
+                    "conceptOfTheTransaction": "REGISTRO DE OPERACIONES CUENTA DE AHORROS DICIEMBRE 2024",
+                    "should": "0.00",
+                    "see": "300.00",
+                    "item": {
+                        "noPartida": 11,
+                        "date": "2025-03-03"
+                    },
+                    "accountCatalog": {
+                        "code": "1101020201",
+                        "name": "DAVIVIENDA #016-54-03508-46"
+                    }
+                },
+                {
+                    "conceptOfTheTransaction": "REGISTRO DE OPERACIONES CUENTA DE AHORROS DICIEMBRE 2024",
+                    "should": "1659.49",
+                    "see": "0.00",
+                    "item": {
+                        "noPartida": 11,
+                        "date": "2025-03-03"
+                    },
+                    "accountCatalog": {
+                        "code": "1101020201",
+                        "name": "DAVIVIENDA #016-54-03508-46"
+                    }
+                },
+                {
+                    "conceptOfTheTransaction": "REGISTRO DE OPERACIONES CUENTA DE AHORROS DICIEMBRE 2024",
+                    "should": "6028.30",
+                    "see": "0.00",
+                    "item": {
+                        "noPartida": 11,
+                        "date": "2025-03-03"
+                    },
+                    "accountCatalog": {
+                        "code": "1101020201",
+                        "name": "DAVIVIENDA #016-54-03508-46"
+                    }
+                },
+                {
+                    "conceptOfTheTransaction": "REGISTRO DE OPERACIONES CUENTA DE AHORROS DICIEMBRE 2024",
+                    "should": "0.00",
+                    "see": "90.00",
+                    "item": {
+                        "noPartida": 11,
+                        "date": "2025-03-03"
+                    },
+                    "accountCatalog": {
+                        "code": "1101020201",
+                        "name": "DAVIVIENDA #016-54-03508-46"
+                    }
+                },
+                {
+                    "conceptOfTheTransaction": "REGISTRO DE OPERACIONES CUENTA DE AHORROS DICIEMBRE 2024",
+                    "should": "0.00",
+                    "see": "500.00",
+                    "item": {
+                        "noPartida": 11,
+                        "date": "2025-03-03"
+                    },
+                    "accountCatalog": {
+                        "code": "1101020201",
+                        "name": "DAVIVIENDA #016-54-03508-46"
+                    }
+                },
+                {
+                    "conceptOfTheTransaction": "REGISTRO DE OPERACIONES CUENTA DE AHORROS DICIEMBRE 2024",
+                    "should": "0.00",
+                    "see": "31.35",
+                    "item": {
+                        "noPartida": 11,
+                        "date": "2025-03-03"
+                    },
+                    "accountCatalog": {
+                        "code": "1101020201",
+                        "name": "DAVIVIENDA #016-54-03508-46"
+                    }
+                },
+                {
+                    "conceptOfTheTransaction": "REGISTRO DE OPERACIONES CUENTA DE AHORROS DICIEMBRE 2024",
+                    "should": "313.53",
+                    "see": "0.00",
+                    "item": {
+                        "noPartida": 11,
+                        "date": "2025-03-03"
+                    },
+                    "accountCatalog": {
+                        "code": "1101020201",
+                        "name": "DAVIVIENDA #016-54-03508-46"
+                    }
+                },
+                {
+                    "conceptOfTheTransaction": "REGISTRO DE OPERACIONES CUENTA DE AHORROS DICIEMBRE 2024",
+                    "should": "0.00",
+                    "see": "7.75",
+                    "item": {
+                        "noPartida": 11,
+                        "date": "2025-03-03"
+                    },
+                    "accountCatalog": {
+                        "code": "1101020201",
+                        "name": "DAVIVIENDA #016-54-03508-46"
+                    }
+                },
+                {
+                    "conceptOfTheTransaction": "REGISTRO DE OPERACIONES CUENTA DE AHORROS DICIEMBRE 2024",
+                    "should": "995.44",
+                    "see": "0.00",
+                    "item": {
+                        "noPartida": 11,
+                        "date": "2025-03-03"
+                    },
+                    "accountCatalog": {
+                        "code": "1101020201",
+                        "name": "DAVIVIENDA #016-54-03508-46"
+                    }
+                },
+                {
+                    "conceptOfTheTransaction": "REGISTRO DE OPERACIONES CUENTA DE AHORROS DICIEMBRE 2024",
+                    "should": "0.00",
+                    "see": "99.54",
+                    "item": {
+                        "noPartida": 11,
+                        "date": "2025-03-03"
+                    },
+                    "accountCatalog": {
+                        "code": "1101020201",
+                        "name": "DAVIVIENDA #016-54-03508-46"
+                    }
+                },
+                {
+                    "conceptOfTheTransaction": "REGISTRO DE OPERACIONES CUENTA DE AHORROS DICIEMBRE 2024",
+                    "should": "0.00",
+                    "see": "1659.49",
+                    "item": {
+                        "noPartida": 11,
+                        "date": "2025-03-03"
+                    },
+                    "accountCatalog": {
+                        "code": "11010101",
+                        "name": "CAJA GENERAL"
+                    }
+                },
+                {
+                    "conceptOfTheTransaction": "REGISTRO DE OPERACIONES CUENTA DE AHORROS DICIEMBRE 2024",
+                    "should": "0.00",
+                    "see": "6028.30",
+                    "item": {
+                        "noPartida": 11,
+                        "date": "2025-03-03"
+                    },
+                    "accountCatalog": {
+                        "code": "11010101",
+                        "name": "CAJA GENERAL"
+                    }
+                },
+                {
+                    "conceptOfTheTransaction": "REGISTRO DE OPERACIONES CUENTA DE AHORROS DICIEMBRE 2024",
+                    "should": "500.00",
+                    "see": "0.00",
+                    "item": {
+                        "noPartida": 11,
+                        "date": "2025-03-03"
+                    },
+                    "accountCatalog": {
+                        "code": "11010204",
+                        "name": "AHORRO DABUENAVIDA"
+                    }
+                },
+                {
+                    "conceptOfTheTransaction": "REGISTRO DE VENTAS DEL DIA - APOPA",
+                    "should": "57.00",
+                    "see": "0.00",
+                    "item": {
+                        "noPartida": 3,
+                        "date": "2025-03-08"
+                    },
+                    "accountCatalog": {
+                        "code": "11010101",
+                        "name": "CAJA GENERAL"
+                    }
+                }
+            ],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 4,
+            "code": "110101",
+            "name": "CAJA",
+            "majorAccount": "1101",
+            "accountLevel": "4",
+            "accountType": "Mayor",
+            "uploadAs": "Activo",
+            "subAccount": true,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [
+                {
+                    "conceptOfTheTransaction": "REGISTRO DE VENTAS DEL DIA - LIBERTAD ",
+                    "should": "14452.80",
+                    "see": "0.00",
+                    "item": {
+                        "noPartida": 2,
+                        "date": "2025-03-05"
+                    },
+                    "accountCatalog": {
+                        "code": "11010101",
+                        "name": "CAJA GENERAL"
+                    }
+                },
+                {
+                    "conceptOfTheTransaction": "REGISTRO DE OPERACIONES CUENTA DE AHORROS DICIEMBRE 2024",
+                    "should": "0.00",
+                    "see": "1659.49",
+                    "item": {
+                        "noPartida": 11,
+                        "date": "2025-03-03"
+                    },
+                    "accountCatalog": {
+                        "code": "11010101",
+                        "name": "CAJA GENERAL"
+                    }
+                },
+                {
+                    "conceptOfTheTransaction": "REGISTRO DE OPERACIONES CUENTA DE AHORROS DICIEMBRE 2024",
+                    "should": "0.00",
+                    "see": "6028.30",
+                    "item": {
+                        "noPartida": 11,
+                        "date": "2025-03-03"
+                    },
+                    "accountCatalog": {
+                        "code": "11010101",
+                        "name": "CAJA GENERAL"
+                    }
+                },
+                {
+                    "conceptOfTheTransaction": "REGISTRO DE VENTAS DEL DIA - APOPA",
+                    "should": "57.00",
+                    "see": "0.00",
+                    "item": {
+                        "noPartida": 3,
+                        "date": "2025-03-08"
+                    },
+                    "accountCatalog": {
+                        "code": "11010101",
+                        "name": "CAJA GENERAL"
+                    }
+                }
+            ],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 7,
+            "code": "110102",
+            "name": "BANCOS MONEDA NACIONAL",
+            "majorAccount": "1101",
+            "accountLevel": "4",
+            "accountType": "Mayor",
+            "uploadAs": "Activo",
+            "subAccount": true,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [
+                {
+                    "conceptOfTheTransaction": "REGISTRO DE OPERACIONES CUENTA DE AHORROS DICIEMBRE 2024",
+                    "should": "0.00",
+                    "see": "300.00",
+                    "item": {
+                        "noPartida": 11,
+                        "date": "2025-03-03"
+                    },
+                    "accountCatalog": {
+                        "code": "1101020201",
+                        "name": "DAVIVIENDA #016-54-03508-46"
+                    }
+                },
+                {
+                    "conceptOfTheTransaction": "REGISTRO DE OPERACIONES CUENTA DE AHORROS DICIEMBRE 2024",
+                    "should": "1659.49",
+                    "see": "0.00",
+                    "item": {
+                        "noPartida": 11,
+                        "date": "2025-03-03"
+                    },
+                    "accountCatalog": {
+                        "code": "1101020201",
+                        "name": "DAVIVIENDA #016-54-03508-46"
+                    }
+                },
+                {
+                    "conceptOfTheTransaction": "REGISTRO DE OPERACIONES CUENTA DE AHORROS DICIEMBRE 2024",
+                    "should": "6028.30",
+                    "see": "0.00",
+                    "item": {
+                        "noPartida": 11,
+                        "date": "2025-03-03"
+                    },
+                    "accountCatalog": {
+                        "code": "1101020201",
+                        "name": "DAVIVIENDA #016-54-03508-46"
+                    }
+                },
+                {
+                    "conceptOfTheTransaction": "REGISTRO DE OPERACIONES CUENTA DE AHORROS DICIEMBRE 2024",
+                    "should": "0.00",
+                    "see": "90.00",
+                    "item": {
+                        "noPartida": 11,
+                        "date": "2025-03-03"
+                    },
+                    "accountCatalog": {
+                        "code": "1101020201",
+                        "name": "DAVIVIENDA #016-54-03508-46"
+                    }
+                },
+                {
+                    "conceptOfTheTransaction": "REGISTRO DE OPERACIONES CUENTA DE AHORROS DICIEMBRE 2024",
+                    "should": "0.00",
+                    "see": "500.00",
+                    "item": {
+                        "noPartida": 11,
+                        "date": "2025-03-03"
+                    },
+                    "accountCatalog": {
+                        "code": "1101020201",
+                        "name": "DAVIVIENDA #016-54-03508-46"
+                    }
+                },
+                {
+                    "conceptOfTheTransaction": "REGISTRO DE OPERACIONES CUENTA DE AHORROS DICIEMBRE 2024",
+                    "should": "0.00",
+                    "see": "31.35",
+                    "item": {
+                        "noPartida": 11,
+                        "date": "2025-03-03"
+                    },
+                    "accountCatalog": {
+                        "code": "1101020201",
+                        "name": "DAVIVIENDA #016-54-03508-46"
+                    }
+                },
+                {
+                    "conceptOfTheTransaction": "REGISTRO DE OPERACIONES CUENTA DE AHORROS DICIEMBRE 2024",
+                    "should": "313.53",
+                    "see": "0.00",
+                    "item": {
+                        "noPartida": 11,
+                        "date": "2025-03-03"
+                    },
+                    "accountCatalog": {
+                        "code": "1101020201",
+                        "name": "DAVIVIENDA #016-54-03508-46"
+                    }
+                },
+                {
+                    "conceptOfTheTransaction": "REGISTRO DE OPERACIONES CUENTA DE AHORROS DICIEMBRE 2024",
+                    "should": "0.00",
+                    "see": "7.75",
+                    "item": {
+                        "noPartida": 11,
+                        "date": "2025-03-03"
+                    },
+                    "accountCatalog": {
+                        "code": "1101020201",
+                        "name": "DAVIVIENDA #016-54-03508-46"
+                    }
+                },
+                {
+                    "conceptOfTheTransaction": "REGISTRO DE OPERACIONES CUENTA DE AHORROS DICIEMBRE 2024",
+                    "should": "995.44",
+                    "see": "0.00",
+                    "item": {
+                        "noPartida": 11,
+                        "date": "2025-03-03"
+                    },
+                    "accountCatalog": {
+                        "code": "1101020201",
+                        "name": "DAVIVIENDA #016-54-03508-46"
+                    }
+                },
+                {
+                    "conceptOfTheTransaction": "REGISTRO DE OPERACIONES CUENTA DE AHORROS DICIEMBRE 2024",
+                    "should": "0.00",
+                    "see": "99.54",
+                    "item": {
+                        "noPartida": 11,
+                        "date": "2025-03-03"
+                    },
+                    "accountCatalog": {
+                        "code": "1101020201",
+                        "name": "DAVIVIENDA #016-54-03508-46"
+                    }
+                },
+                {
+                    "conceptOfTheTransaction": "REGISTRO DE OPERACIONES CUENTA DE AHORROS DICIEMBRE 2024",
+                    "should": "500.00",
+                    "see": "0.00",
+                    "item": {
+                        "noPartida": 11,
+                        "date": "2025-03-03"
+                    },
+                    "accountCatalog": {
+                        "code": "11010204",
+                        "name": "AHORRO DABUENAVIDA"
+                    }
+                }
+            ],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 8,
+            "code": "11010201",
+            "name": "CUENTAS CORRIENTES",
+            "majorAccount": "110102",
+            "accountLevel": "5",
+            "accountType": "Mayor",
+            "uploadAs": "Activo",
+            "subAccount": false,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 11,
+            "code": "110103",
+            "name": "BANCOS MONEDA EXTRANGERA",
+            "majorAccount": "1101",
+            "accountLevel": "4",
+            "accountType": "Mayor",
+            "uploadAs": "Activo",
+            "subAccount": true,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 16,
+            "code": "1102",
+            "name": "CUENTAS Y DOCUMENTOS POR COBRAR",
+            "majorAccount": "11",
+            "accountLevel": "3",
+            "accountType": "Mayor",
+            "uploadAs": "Activo",
+            "subAccount": true,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 24,
+            "code": "1104",
+            "name": "INVERSIONES A CORTO PLAZO",
+            "majorAccount": "11",
+            "accountLevel": "3",
+            "accountType": "Mayor",
+            "uploadAs": "Activo",
+            "subAccount": false,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 25,
+            "code": "1105",
+            "name": "INVENTARIOS",
+            "majorAccount": "11",
+            "accountLevel": "3",
+            "accountType": "Mayor",
+            "uploadAs": "Activo",
+            "subAccount": true,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 30,
+            "code": "1106",
+            "name": "ACCIONISTAS",
+            "majorAccount": "11",
+            "accountLevel": "3",
+            "accountType": "Mayor",
+            "uploadAs": "Activo",
+            "subAccount": false,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 31,
+            "code": "1107",
+            "name": "GASTOS PAGADOS POR ANTICIPADO",
+            "majorAccount": "11",
+            "accountLevel": "3",
+            "accountType": "Mayor",
+            "uploadAs": "Activo",
+            "subAccount": true,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 38,
+            "code": "1108",
+            "name": "PAGO A CUENTA ISR",
+            "majorAccount": "11",
+            "accountLevel": "3",
+            "accountType": "Mayor",
+            "uploadAs": "Activo",
+            "subAccount": true,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [
+                {
+                    "conceptOfTheTransaction": "REGISTRO DE OPERACIONES CUENTA DE AHORROS DICIEMBRE 2024",
+                    "should": "31.35",
+                    "see": "0.00",
+                    "item": {
+                        "noPartida": 11,
+                        "date": "2025-03-03"
+                    },
+                    "accountCatalog": {
+                        "code": "110802",
+                        "name": "RETENCIONES ISR "
+                    }
+                },
+                {
+                    "conceptOfTheTransaction": "REGISTRO DE OPERACIONES CUENTA DE AHORROS DICIEMBRE 2024",
+                    "should": "99.54",
+                    "see": "0.00",
+                    "item": {
+                        "noPartida": 11,
+                        "date": "2025-03-03"
+                    },
+                    "accountCatalog": {
+                        "code": "110802",
+                        "name": "RETENCIONES ISR "
+                    }
+                }
+            ],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 40,
+            "code": "1109",
+            "name": "CREDITO FISCAL IVA",
+            "majorAccount": "11",
+            "accountLevel": "3",
+            "accountType": "Mayor",
+            "uploadAs": "Activo",
+            "subAccount": true,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [
+                {
+                    "conceptOfTheTransaction": "COMPRA DE HIELO  ",
+                    "should": "0.16",
+                    "see": "0.00",
+                    "item": {
+                        "noPartida": 2,
+                        "date": "2025-03-05"
+                    },
+                    "accountCatalog": {
+                        "code": "110901",
+                        "name": "COMPRAS LOCALES"
+                    }
+                },
+                {
+                    "conceptOfTheTransaction": "CARGA PARA EXTINTOR                 ",
+                    "should": "3.38",
+                    "see": "0.00",
+                    "item": {
+                        "noPartida": 3,
+                        "date": "2025-03-05"
+                    },
+                    "accountCatalog": {
+                        "code": "110901",
+                        "name": "COMPRAS LOCALES"
+                    }
+                },
+                {
+                    "conceptOfTheTransaction": "COMPRA DE AQUA ECO           ",
+                    "should": "1.29",
+                    "see": "0.00",
+                    "item": {
+                        "noPartida": 4,
+                        "date": "2025-03-05"
+                    },
+                    "accountCatalog": {
+                        "code": "110901",
+                        "name": "COMPRAS LOCALES"
+                    }
+                },
+                {
+                    "conceptOfTheTransaction": "VENT CIRCULADOR 20\"  ",
+                    "should": "17.22",
+                    "see": "0.00",
+                    "item": {
+                        "noPartida": 5,
+                        "date": "2025-03-05"
+                    },
+                    "accountCatalog": {
+                        "code": "110901",
+                        "name": "COMPRAS LOCALES"
+                    }
+                },
+                {
+                    "conceptOfTheTransaction": "COMPRA DE DIVERSOS PRODUCTOS          ",
+                    "should": "0.66",
+                    "see": "0.00",
+                    "item": {
+                        "noPartida": 6,
+                        "date": "2025-03-05"
+                    },
+                    "accountCatalog": {
+                        "code": "110901",
+                        "name": "COMPRAS LOCALES"
+                    }
+                },
+                {
+                    "conceptOfTheTransaction": "COMPRA DE 3 GARRAFONES DE AGUA          ",
+                    "should": "0.98",
+                    "see": "0.00",
+                    "item": {
+                        "noPartida": 7,
+                        "date": "2025-03-05"
+                    },
+                    "accountCatalog": {
+                        "code": "110901",
+                        "name": "COMPRAS LOCALES"
+                    }
+                },
+                {
+                    "conceptOfTheTransaction": "COMPRA DE AQUA ECO DE 750 ML ",
+                    "should": "0.77",
+                    "see": "0.00",
+                    "item": {
+                        "noPartida": 8,
+                        "date": "2025-03-04"
+                    },
+                    "accountCatalog": {
+                        "code": "110901",
+                        "name": "COMPRAS LOCALES"
+                    }
+                },
+                {
+                    "conceptOfTheTransaction": "COMPRA DE MATERIALES DE FERRETERIA      ",
+                    "should": "41.40",
+                    "see": "0.00",
+                    "item": {
+                        "noPartida": 9,
+                        "date": "2025-03-04"
+                    },
+                    "accountCatalog": {
+                        "code": "110901",
+                        "name": "COMPRAS LOCALES"
+                    }
+                },
+                {
+                    "conceptOfTheTransaction": "COMISIONES DEL DIA    ",
+                    "should": "11.47",
+                    "see": "0.00",
+                    "item": {
+                        "noPartida": 10,
+                        "date": "2025-03-03"
+                    },
+                    "accountCatalog": {
+                        "code": "110901",
+                        "name": "COMPRAS LOCALES"
+                    }
+                },
+                {
+                    "conceptOfTheTransaction": "Correcion de sillas y escritorios",
+                    "should": "13.00",
+                    "see": "0.00",
+                    "item": {
+                        "noPartida": 12,
+                        "date": "2025-03-08"
+                    },
+                    "accountCatalog": {
+                        "code": "110901",
+                        "name": "COMPRAS LOCALES"
+                    }
+                },
+                {
+                    "conceptOfTheTransaction": "Mejora de equipos",
+                    "should": "32.50",
+                    "see": "0.00",
+                    "item": {
+                        "noPartida": 13,
+                        "date": "2025-03-08"
+                    },
+                    "accountCatalog": {
+                        "code": "110901",
+                        "name": "COMPRAS LOCALES"
+                    }
+                }
+            ],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 48,
+            "code": "1201",
+            "name": "PROPIEDAD PLANTA Y EQUIPO",
+            "majorAccount": "12",
+            "accountLevel": "3",
+            "accountType": "Mayor",
+            "uploadAs": "Activo",
+            "subAccount": true,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [
+                {
+                    "conceptOfTheTransaction": "VENT CIRCULADOR 20\"  ",
+                    "should": "132.48",
+                    "see": "0.00",
+                    "item": {
+                        "noPartida": 5,
+                        "date": "2025-03-05"
+                    },
+                    "accountCatalog": {
+                        "code": "12010302",
+                        "name": "MOBILIARIO Y EQUIPO DE VENTA"
+                    }
+                },
+                {
+                    "conceptOfTheTransaction": "Correcion de sillas y escritorios, y equipos",
+                    "should": "100.00",
+                    "see": "0.00",
+                    "item": {
+                        "noPartida": 12,
+                        "date": "2025-03-08"
+                    },
+                    "accountCatalog": {
+                        "code": "12010301",
+                        "name": "MOBILIARIO Y EQUIPO DE OFICINA"
+                    }
+                },
+                {
+                    "conceptOfTheTransaction": "Mejora de equipos",
+                    "should": "250.00",
+                    "see": "0.00",
+                    "item": {
+                        "noPartida": 13,
+                        "date": "2025-03-08"
+                    },
+                    "accountCatalog": {
+                        "code": "12010301",
+                        "name": "MOBILIARIO Y EQUIPO DE OFICINA"
+                    }
+                }
+            ],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 74,
+            "code": "1202",
+            "name": "PROPIEDAD PLANTA Y EQUIPO - EN ARRENDAMIENTE FINANCIERO",
+            "majorAccount": "12",
+            "accountLevel": "3",
+            "accountType": "Mayor",
+            "uploadAs": "Activo",
+            "subAccount": true,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 87,
+            "code": "1203",
+            "name": "PROPIEDADES DE INVERSION",
+            "majorAccount": "12",
+            "accountLevel": "3",
+            "accountType": "Mayor",
+            "uploadAs": "Activo",
+            "subAccount": true,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 91,
+            "code": "1204",
+            "name": "INTANGIBLES",
+            "majorAccount": "12",
+            "accountLevel": "3",
+            "accountType": "Mayor",
+            "uploadAs": "Activo",
+            "subAccount": true,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 103,
+            "code": "1205",
+            "name": "CUENTAS POR COBRAR A LARGO PLAZO",
+            "majorAccount": "12",
+            "accountLevel": "3",
+            "accountType": "Mayor",
+            "uploadAs": "Activo",
+            "subAccount": true,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 106,
+            "code": "1206",
+            "name": "INVERSIONES PERMANENTES",
+            "majorAccount": "12",
+            "accountLevel": "3",
+            "accountType": "Mayor",
+            "uploadAs": "Activo",
+            "subAccount": true,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 109,
+            "code": "1207",
+            "name": "DEPOSITOS EN GARANTIA",
+            "majorAccount": "12",
+            "accountLevel": "3",
+            "accountType": "Mayor",
+            "uploadAs": "Activo",
+            "subAccount": true,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 114,
+            "code": "1208",
+            "name": "IMPUESTO SOBRE LA RENTA DIFERIDO - ACTIVO",
+            "majorAccount": "12",
+            "accountLevel": "3",
+            "accountType": "Mayor",
+            "uploadAs": "Activo",
+            "subAccount": true,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 117,
+            "code": "1209",
+            "name": "OTRAS CUENTAS DEUDORAS",
+            "majorAccount": "12",
+            "accountLevel": "3",
+            "accountType": "Mayor",
+            "uploadAs": "Activo",
+            "subAccount": false,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 120,
+            "code": "2101",
+            "name": "PRESTAMOS A CORTO PLAZO Y SOBREGIROS",
+            "majorAccount": "21",
+            "accountLevel": "3",
+            "accountType": "Mayor",
+            "uploadAs": "Pasivo",
+            "subAccount": true,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 124,
+            "code": "2102",
+            "name": "CUENTAS COMERCIALES POR PAGAR",
+            "majorAccount": "21",
+            "accountLevel": "3",
+            "accountType": "Mayor",
+            "uploadAs": "Pasivo",
+            "subAccount": true,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [
+                {
+                    "conceptOfTheTransaction": "COMPRA DE HIELO  ",
+                    "should": "0.00",
+                    "see": "1.36",
+                    "item": {
+                        "noPartida": 2,
+                        "date": "2025-03-05"
+                    },
+                    "accountCatalog": {
+                        "code": "21020101",
+                        "name": "PROVEEDORES NACIONALES"
+                    }
+                },
+                {
+                    "conceptOfTheTransaction": "CARGA PARA EXTINTOR                 ",
+                    "should": "0.00",
+                    "see": "29.38",
+                    "item": {
+                        "noPartida": 3,
+                        "date": "2025-03-05"
+                    },
+                    "accountCatalog": {
+                        "code": "21020101",
+                        "name": "PROVEEDORES NACIONALES"
+                    }
+                },
+                {
+                    "conceptOfTheTransaction": "COMPRA DE AQUA ECO           ",
+                    "should": "0.00",
+                    "see": "11.21",
+                    "item": {
+                        "noPartida": 4,
+                        "date": "2025-03-05"
+                    },
+                    "accountCatalog": {
+                        "code": "21020101",
+                        "name": "PROVEEDORES NACIONALES"
+                    }
+                },
+                {
+                    "conceptOfTheTransaction": "VENT CIRCULADOR 20\"  ",
+                    "should": "0.00",
+                    "see": "149.70",
+                    "item": {
+                        "noPartida": 5,
+                        "date": "2025-03-05"
+                    },
+                    "accountCatalog": {
+                        "code": "21020101",
+                        "name": "PROVEEDORES NACIONALES"
+                    }
+                },
+                {
+                    "conceptOfTheTransaction": "COMPRA DE DIVERSOS PRODUCTOS          ",
+                    "should": "0.00",
+                    "see": "5.71",
+                    "item": {
+                        "noPartida": 6,
+                        "date": "2025-03-05"
+                    },
+                    "accountCatalog": {
+                        "code": "21020101",
+                        "name": "PROVEEDORES NACIONALES"
+                    }
+                },
+                {
+                    "conceptOfTheTransaction": "COMPRA DE 3 GARRAFONES DE AGUA          ",
+                    "should": "0.00",
+                    "see": "8.54",
+                    "item": {
+                        "noPartida": 7,
+                        "date": "2025-03-05"
+                    },
+                    "accountCatalog": {
+                        "code": "21020101",
+                        "name": "PROVEEDORES NACIONALES"
+                    }
+                },
+                {
+                    "conceptOfTheTransaction": "COMPRA DE AQUA ECO DE 750 ML ",
+                    "should": "0.00",
+                    "see": "6.65",
+                    "item": {
+                        "noPartida": 8,
+                        "date": "2025-03-04"
+                    },
+                    "accountCatalog": {
+                        "code": "21020101",
+                        "name": "PROVEEDORES NACIONALES"
+                    }
+                },
+                {
+                    "conceptOfTheTransaction": "COMPRA DE MATERIALES DE FERRETERIA      ",
+                    "should": "0.00",
+                    "see": "359.89",
+                    "item": {
+                        "noPartida": 9,
+                        "date": "2025-03-04"
+                    },
+                    "accountCatalog": {
+                        "code": "21020101",
+                        "name": "PROVEEDORES NACIONALES"
+                    }
+                },
+                {
+                    "conceptOfTheTransaction": "COMISIONES DEL DIA    ",
+                    "should": "0.00",
+                    "see": "99.67",
+                    "item": {
+                        "noPartida": 10,
+                        "date": "2025-03-03"
+                    },
+                    "accountCatalog": {
+                        "code": "21020101",
+                        "name": "PROVEEDORES NACIONALES"
+                    }
+                },
+                {
+                    "conceptOfTheTransaction": "REGISTRO DE OPERACIONES CUENTA DE AHORROS DICIEMBRE 2024",
+                    "should": "300.00",
+                    "see": "0.00",
+                    "item": {
+                        "noPartida": 11,
+                        "date": "2025-03-03"
+                    },
+                    "accountCatalog": {
+                        "code": "21020101",
+                        "name": "PROVEEDORES NACIONALES"
+                    }
+                },
+                {
+                    "conceptOfTheTransaction": "REGISTRO DE OPERACIONES CUENTA DE AHORROS DICIEMBRE 2024",
+                    "should": "90.00",
+                    "see": "0.00",
+                    "item": {
+                        "noPartida": 11,
+                        "date": "2025-03-03"
+                    },
+                    "accountCatalog": {
+                        "code": "21020101",
+                        "name": "PROVEEDORES NACIONALES"
+                    }
+                },
+                {
+                    "conceptOfTheTransaction": "Correcion de sillas y escritorios",
+                    "should": "0.00",
+                    "see": "113.00",
+                    "item": {
+                        "noPartida": 12,
+                        "date": "2025-03-08"
+                    },
+                    "accountCatalog": {
+                        "code": "21020101",
+                        "name": "PROVEEDORES NACIONALES"
+                    }
+                },
+                {
+                    "conceptOfTheTransaction": "Mejora de equipos",
+                    "should": "0.00",
+                    "see": "282.50",
+                    "item": {
+                        "noPartida": 13,
+                        "date": "2025-03-08"
+                    },
+                    "accountCatalog": {
+                        "code": "21020101",
+                        "name": "PROVEEDORES NACIONALES"
+                    }
+                }
+            ],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 130,
+            "code": "2103",
+            "name": "ACREEDORES VARIOS",
+            "majorAccount": "21",
+            "accountLevel": "3",
+            "accountType": "Mayor",
+            "uploadAs": "Pasivo",
+            "subAccount": true,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 146,
+            "code": "2104",
+            "name": "RETENCIONES POR PAGAR",
+            "majorAccount": "21",
+            "accountLevel": "3",
+            "accountType": "Mayor",
+            "uploadAs": "Pasivo",
+            "subAccount": true,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 157,
+            "code": "2105",
+            "name": "BENEFICIOS A EMPLEADOS POR PAGAR",
+            "majorAccount": "21",
+            "accountLevel": "3",
+            "accountType": "Mayor",
+            "uploadAs": "Pasivo",
+            "subAccount": true,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 167,
+            "code": "2106",
+            "name": "IMPUESTO SOBRE LA RENTA POR PAGAR",
+            "majorAccount": "21",
+            "accountLevel": "3",
+            "accountType": "Mayor",
+            "uploadAs": "Pasivo",
+            "subAccount": true,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 170,
+            "code": "2107",
+            "name": "OBLIGACIONES POR ARRENDAMIENTO FINANCIERO",
+            "majorAccount": "21",
+            "accountLevel": "3",
+            "accountType": "Mayor",
+            "uploadAs": "Pasivo",
+            "subAccount": false,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 171,
+            "code": "2108",
+            "name": "IVA - DÉBITO FISCAL",
+            "majorAccount": "21",
+            "accountLevel": "3",
+            "accountType": "Mayor",
+            "uploadAs": "Pasivo",
+            "subAccount": true,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [
+                {
+                    "conceptOfTheTransaction": "REGISTRO DE VENTAS DEL DIA - LIBERTAD ",
+                    "should": "0.00",
+                    "see": "1662.71",
+                    "item": {
+                        "noPartida": 2,
+                        "date": "2025-03-05"
+                    },
+                    "accountCatalog": {
+                        "code": "2108010104",
+                        "name": "IVA DEBITO FISCAL FACTURAS SUCURSAL LIBERTAD"
+                    }
+                },
+                {
+                    "conceptOfTheTransaction": "REGISTRO DE VENTAS DEL DIA - APOPA",
+                    "should": "0.00",
+                    "see": "6.56",
+                    "item": {
+                        "noPartida": 3,
+                        "date": "2025-03-08"
+                    },
+                    "accountCatalog": {
+                        "code": "2108010104",
+                        "name": "IVA DEBITO FISCAL FACTURAS SUCURSAL LIBERTAD"
+                    }
+                }
+            ],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 188,
+            "code": "2201",
+            "name": "PRESTAMOS POR PAGAR A LARGO PLAZO",
+            "majorAccount": "22",
+            "accountLevel": "3",
+            "accountType": "Mayor",
+            "uploadAs": "Pasivo",
+            "subAccount": true,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 195,
+            "code": "2202",
+            "name": "OBLIGACIONES POR ARRENDAMIENTO FINANCIERO",
+            "majorAccount": "22",
+            "accountLevel": "3",
+            "accountType": "Mayor",
+            "uploadAs": "Pasivo",
+            "subAccount": false,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 196,
+            "code": "2203",
+            "name": "BENEFICIOS POR PAGAR A EMPLEADOS - LARGO PLAZO",
+            "majorAccount": "22",
+            "accountLevel": "3",
+            "accountType": "Mayor",
+            "uploadAs": "Pasivo",
+            "subAccount": true,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 199,
+            "code": "2204",
+            "name": "IMPUESTO SOBRE LA RENTA DIFERIDO - PASIVO",
+            "majorAccount": "22",
+            "accountLevel": "3",
+            "accountType": "Mayor",
+            "uploadAs": "Pasivo",
+            "subAccount": true,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 203,
+            "code": "3101",
+            "name": "PATRIMONIO",
+            "majorAccount": "31",
+            "accountLevel": "3",
+            "accountType": "Mayor",
+            "uploadAs": "Patrimonio",
+            "subAccount": true,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 205,
+            "code": "3102",
+            "name": "SUPERAVIT POR REVALUACIONES",
+            "majorAccount": "31",
+            "accountLevel": "3",
+            "accountType": "Mayor",
+            "uploadAs": "Patrimonio",
+            "subAccount": true,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 207,
+            "code": "3201",
+            "name": "UTILIDADES DE EJERCICIOS ANTERIORES",
+            "majorAccount": "32",
+            "accountLevel": "3",
+            "accountType": "Mayor",
+            "uploadAs": "Patrimonio",
+            "subAccount": true,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 209,
+            "code": "3202",
+            "name": "UTILIDAD DEL PRESENTE EJERCICIO",
+            "majorAccount": "32",
+            "accountLevel": "3",
+            "accountType": "Mayor",
+            "uploadAs": "Patrimonio",
+            "subAccount": true,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 211,
+            "code": "3203",
+            "name": "DÉFICIT DE EJERCICIOS ANTERIORES",
+            "majorAccount": "32",
+            "accountLevel": "3",
+            "accountType": "Mayor",
+            "uploadAs": "Patrimonio",
+            "subAccount": true,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 213,
+            "code": "3204",
+            "name": "DÉFICIT DEL PRESENTE EJERCICIO",
+            "majorAccount": "32",
+            "accountLevel": "3",
+            "accountType": "Mayor",
+            "uploadAs": "Patrimonio",
+            "subAccount": true,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 217,
+            "code": "4101",
+            "name": "COSTO DE VENTAS",
+            "majorAccount": "41",
+            "accountLevel": "3",
+            "accountType": "Mayor",
+            "uploadAs": "Resultado Deudoras",
+            "subAccount": true,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 220,
+            "code": "4102",
+            "name": "GASTOS ADMINISTRATIVOS",
+            "majorAccount": "41",
+            "accountLevel": "3",
+            "accountType": "Mayor",
+            "uploadAs": "Resultado Deudoras",
+            "subAccount": true,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 297,
+            "code": "4103",
+            "name": "GASTOS DE VENTAS",
+            "majorAccount": "41",
+            "accountLevel": "3",
+            "accountType": "Mayor",
+            "uploadAs": "Resultado Deudoras",
+            "subAccount": true,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [
+                {
+                    "conceptOfTheTransaction": "COMPRA DE HIELO  ",
+                    "should": "1.20",
+                    "see": "0.00",
+                    "item": {
+                        "noPartida": 2,
+                        "date": "2025-03-05"
+                    },
+                    "accountCatalog": {
+                        "code": "41030904",
+                        "name": "OTRAS ATENCIONES A CLIENTES Y EMPLEADOS"
+                    }
+                },
+                {
+                    "conceptOfTheTransaction": "CARGA PARA EXTINTOR                 ",
+                    "should": "26.00",
+                    "see": "0.00",
+                    "item": {
+                        "noPartida": 3,
+                        "date": "2025-03-05"
+                    },
+                    "accountCatalog": {
+                        "code": "41030201",
+                        "name": "MANTENIMIENTO DE EDIFICACIONES E INSTALACIONES PROPIAS"
+                    }
+                },
+                {
+                    "conceptOfTheTransaction": "COMPRA DE AQUA ECO           ",
+                    "should": "9.92",
+                    "see": "0.00",
+                    "item": {
+                        "noPartida": 4,
+                        "date": "2025-03-05"
+                    },
+                    "accountCatalog": {
+                        "code": "41030904",
+                        "name": "OTRAS ATENCIONES A CLIENTES Y EMPLEADOS"
+                    }
+                },
+                {
+                    "conceptOfTheTransaction": "COMPRA DE DIVERSOS PRODUCTOS          ",
+                    "should": "5.05",
+                    "see": "0.00",
+                    "item": {
+                        "noPartida": 6,
+                        "date": "2025-03-05"
+                    },
+                    "accountCatalog": {
+                        "code": "41030904",
+                        "name": "OTRAS ATENCIONES A CLIENTES Y EMPLEADOS"
+                    }
+                },
+                {
+                    "conceptOfTheTransaction": "COMPRA DE 3 GARRAFONES DE AGUA          ",
+                    "should": "7.56",
+                    "see": "0.00",
+                    "item": {
+                        "noPartida": 7,
+                        "date": "2025-03-05"
+                    },
+                    "accountCatalog": {
+                        "code": "41030904",
+                        "name": "OTRAS ATENCIONES A CLIENTES Y EMPLEADOS"
+                    }
+                },
+                {
+                    "conceptOfTheTransaction": "COMPRA DE AQUA ECO DE 750 ML ",
+                    "should": "5.88",
+                    "see": "0.00",
+                    "item": {
+                        "noPartida": 8,
+                        "date": "2025-03-04"
+                    },
+                    "accountCatalog": {
+                        "code": "41030904",
+                        "name": "OTRAS ATENCIONES A CLIENTES Y EMPLEADOS"
+                    }
+                },
+                {
+                    "conceptOfTheTransaction": "COMPRA DE MATERIALES DE FERRETERIA      ",
+                    "should": "318.49",
+                    "see": "0.00",
+                    "item": {
+                        "noPartida": 9,
+                        "date": "2025-03-04"
+                    },
+                    "accountCatalog": {
+                        "code": "41030201",
+                        "name": "MANTENIMIENTO DE EDIFICACIONES E INSTALACIONES PROPIAS"
+                    }
+                },
+                {
+                    "conceptOfTheTransaction": "REGISTRO DE OPERACIONES CUENTA DE AHORROS DICIEMBRE 2024",
+                    "should": "7.75",
+                    "see": "0.00",
+                    "item": {
+                        "noPartida": 11,
+                        "date": "2025-03-03"
+                    },
+                    "accountCatalog": {
+                        "code": "41030701",
+                        "name": "SEGURO DE VIDA Y MEDICO"
+                    }
+                }
+            ],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 386,
+            "code": "4201",
+            "name": "GASTOS FINANCIEROS",
+            "majorAccount": "42",
+            "accountLevel": "3",
+            "accountType": "Mayor",
+            "uploadAs": "Resultado Deudoras",
+            "subAccount": true,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [
+                {
+                    "conceptOfTheTransaction": "COMISIONES DEL DIA    ",
+                    "should": "88.20",
+                    "see": "0.00",
+                    "item": {
+                        "noPartida": 10,
+                        "date": "2025-03-03"
+                    },
+                    "accountCatalog": {
+                        "code": "420102",
+                        "name": "COMISIONES"
+                    }
+                }
+            ],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 391,
+            "code": "4202",
+            "name": "PÉRDIDA EN VENTA O RETIRO DE ACTIVOS FIJOS",
+            "majorAccount": "42",
+            "accountLevel": "3",
+            "accountType": "Mayor",
+            "uploadAs": "Resultado Deudoras",
+            "subAccount": true,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 393,
+            "code": "4203",
+            "name": "GASTOS POR DETERIORO EN EL VALOR DE ACTIVOS",
+            "majorAccount": "42",
+            "accountLevel": "3",
+            "accountType": "Mayor",
+            "uploadAs": "Resultado Deudoras",
+            "subAccount": true,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 395,
+            "code": "4204",
+            "name": "PÉRDIDAS POR SINIESTROS",
+            "majorAccount": "42",
+            "accountLevel": "3",
+            "accountType": "Mayor",
+            "uploadAs": "Resultado Deudoras",
+            "subAccount": true,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 397,
+            "code": "4205",
+            "name": "GASTOS DE EJERCICIOS ANTERIORES",
+            "majorAccount": "42",
+            "accountLevel": "3",
+            "accountType": "Mayor",
+            "uploadAs": "Resultado Deudoras",
+            "subAccount": true,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 399,
+            "code": "4206",
+            "name": "OTROS GASTOS",
+            "majorAccount": "42",
+            "accountLevel": "3",
+            "accountType": "Mayor",
+            "uploadAs": "Resultado Deudoras",
+            "subAccount": true,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 403,
+            "code": "5101",
+            "name": "INGRESOS OPERACIONALES",
+            "majorAccount": "51",
+            "accountLevel": "3",
+            "accountType": "Mayor",
+            "uploadAs": "Resultado Acreedoras",
+            "subAccount": true,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [
+                {
+                    "conceptOfTheTransaction": "REGISTRO DE VENTAS DEL DIA - LIBERTAD ",
+                    "should": "0.00",
+                    "see": "12790.09",
+                    "item": {
+                        "noPartida": 2,
+                        "date": "2025-03-05"
+                    },
+                    "accountCatalog": {
+                        "code": "5101010204",
+                        "name": "VENTAS A CONSUMIDOR FINAL SUC LIBERTAD"
+                    }
+                },
+                {
+                    "conceptOfTheTransaction": "REGISTRO DE VENTAS DEL DIA - APOPA",
+                    "should": "0.00",
+                    "see": "50.44",
+                    "item": {
+                        "noPartida": 3,
+                        "date": "2025-03-08"
+                    },
+                    "accountCatalog": {
+                        "code": "5101010204",
+                        "name": "VENTAS A CONSUMIDOR FINAL SUC LIBERTAD"
+                    }
+                }
+            ],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 404,
+            "code": "510101",
+            "name": "VENTAS LOCALES SALA DE VENTAS",
+            "majorAccount": "5101",
+            "accountLevel": "4",
+            "accountType": "Mayor",
+            "uploadAs": "Resultado Acreedoras",
+            "subAccount": true,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [
+                {
+                    "conceptOfTheTransaction": "REGISTRO DE VENTAS DEL DIA - LIBERTAD ",
+                    "should": "0.00",
+                    "see": "12790.09",
+                    "item": {
+                        "noPartida": 2,
+                        "date": "2025-03-05"
+                    },
+                    "accountCatalog": {
+                        "code": "5101010204",
+                        "name": "VENTAS A CONSUMIDOR FINAL SUC LIBERTAD"
+                    }
+                },
+                {
+                    "conceptOfTheTransaction": "REGISTRO DE VENTAS DEL DIA - APOPA",
+                    "should": "0.00",
+                    "see": "50.44",
+                    "item": {
+                        "noPartida": 3,
+                        "date": "2025-03-08"
+                    },
+                    "accountCatalog": {
+                        "code": "5101010204",
+                        "name": "VENTAS A CONSUMIDOR FINAL SUC LIBERTAD"
+                    }
+                }
+            ],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 405,
+            "code": "51010101",
+            "name": "VENTAS A CONTRIBUYENTES",
+            "majorAccount": "510101",
+            "accountLevel": "5",
+            "accountType": "Mayor",
+            "uploadAs": "Resultado Acreedoras",
+            "subAccount": true,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 406,
+            "code": "5101010101",
+            "name": "VENTAS A CONTRIBUYENTES SUC BIBLIOTECA",
+            "majorAccount": "51010101",
+            "accountLevel": "6",
+            "accountType": "Mayor",
+            "uploadAs": "Resultado Acreedoras",
+            "subAccount": false,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 407,
+            "code": "5101010102",
+            "name": "VENTAS A CONTRIBUYENTES SUC ESPAÑA 1",
+            "majorAccount": "51010101",
+            "accountLevel": "6",
+            "accountType": "Mayor",
+            "uploadAs": "Resultado Acreedoras",
+            "subAccount": false,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 408,
+            "code": "5101010103",
+            "name": "VENTAS A CONTRIBUYENTES SUC ESPAÑA 2",
+            "majorAccount": "51010101",
+            "accountLevel": "6",
+            "accountType": "Mayor",
+            "uploadAs": "Resultado Acreedoras",
+            "subAccount": false,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 409,
+            "code": "5101010104",
+            "name": "VENTAS A CONTRIBUYENTES SUC LIBERTAD",
+            "majorAccount": "51010101",
+            "accountLevel": "6",
+            "accountType": "Mayor",
+            "uploadAs": "Resultado Acreedoras",
+            "subAccount": false,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 410,
+            "code": "5101010105",
+            "name": "VENTAS A CONTRIBUYENTES SUC SANTA TECLA",
+            "majorAccount": "51010101",
+            "accountLevel": "6",
+            "accountType": "Mayor",
+            "uploadAs": "Resultado Acreedoras",
+            "subAccount": false,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 411,
+            "code": "5101010106",
+            "name": "VENTAS A CONTRIBUYENTES SUC ESPAÑA 3",
+            "majorAccount": "51010101",
+            "accountLevel": "6",
+            "accountType": "Mayor",
+            "uploadAs": "Resultado Acreedoras",
+            "subAccount": false,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 412,
+            "code": "51010102",
+            "name": "VENTAS A CONSUMIDOR FINAL",
+            "majorAccount": "510101",
+            "accountLevel": "5",
+            "accountType": "Mayor",
+            "uploadAs": "Resultado Acreedoras",
+            "subAccount": true,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [
+                {
+                    "conceptOfTheTransaction": "REGISTRO DE VENTAS DEL DIA - LIBERTAD ",
+                    "should": "0.00",
+                    "see": "12790.09",
+                    "item": {
+                        "noPartida": 2,
+                        "date": "2025-03-05"
+                    },
+                    "accountCatalog": {
+                        "code": "5101010204",
+                        "name": "VENTAS A CONSUMIDOR FINAL SUC LIBERTAD"
+                    }
+                },
+                {
+                    "conceptOfTheTransaction": "REGISTRO DE VENTAS DEL DIA - APOPA",
+                    "should": "0.00",
+                    "see": "50.44",
+                    "item": {
+                        "noPartida": 3,
+                        "date": "2025-03-08"
+                    },
+                    "accountCatalog": {
+                        "code": "5101010204",
+                        "name": "VENTAS A CONSUMIDOR FINAL SUC LIBERTAD"
+                    }
+                }
+            ],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 413,
+            "code": "5101010201",
+            "name": "VENTAS A CONSUMIDOR FINAL SUC BIBLIOTECA",
+            "majorAccount": "51010102",
+            "accountLevel": "6",
+            "accountType": "Mayor",
+            "uploadAs": "Resultado Acreedoras",
+            "subAccount": false,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 414,
+            "code": "5101010202",
+            "name": "VENTAS A CONSUMIDOR FINAL SUC ESPAÑA 1",
+            "majorAccount": "51010102",
+            "accountLevel": "6",
+            "accountType": "Mayor",
+            "uploadAs": "Resultado Acreedoras",
+            "subAccount": false,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 415,
+            "code": "5101010203",
+            "name": "VENTAS A CONSUMIDOR FINAL SUC ESPAÑA 2",
+            "majorAccount": "51010102",
+            "accountLevel": "6",
+            "accountType": "Mayor",
+            "uploadAs": "Resultado Acreedoras",
+            "subAccount": false,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 416,
+            "code": "5101010204",
+            "name": "VENTAS A CONSUMIDOR FINAL SUC LIBERTAD",
+            "majorAccount": "51010102",
+            "accountLevel": "6",
+            "accountType": "Mayor",
+            "uploadAs": "Resultado Acreedoras",
+            "subAccount": false,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [
+                {
+                    "conceptOfTheTransaction": "REGISTRO DE VENTAS DEL DIA - LIBERTAD ",
+                    "should": "0.00",
+                    "see": "12790.09",
+                    "item": {
+                        "noPartida": 2,
+                        "date": "2025-03-05"
+                    },
+                    "accountCatalog": {
+                        "code": "5101010204",
+                        "name": "VENTAS A CONSUMIDOR FINAL SUC LIBERTAD"
+                    }
+                },
+                {
+                    "conceptOfTheTransaction": "REGISTRO DE VENTAS DEL DIA - APOPA",
+                    "should": "0.00",
+                    "see": "50.44",
+                    "item": {
+                        "noPartida": 3,
+                        "date": "2025-03-08"
+                    },
+                    "accountCatalog": {
+                        "code": "5101010204",
+                        "name": "VENTAS A CONSUMIDOR FINAL SUC LIBERTAD"
+                    }
+                }
+            ],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 417,
+            "code": "5101010205",
+            "name": "VENTAS A CONSUMIDOR FINAL SUC SANTA TECLA",
+            "majorAccount": "51010102",
+            "accountLevel": "6",
+            "accountType": "Mayor",
+            "uploadAs": "Resultado Acreedoras",
+            "subAccount": false,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 418,
+            "code": "5101010206",
+            "name": "VENTAS A CONSUMIDOR FINAL SUC ESPAÑA 3",
+            "majorAccount": "51010102",
+            "accountLevel": "6",
+            "accountType": "Mayor",
+            "uploadAs": "Resultado Acreedoras",
+            "subAccount": false,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 419,
+            "code": "51010103",
+            "name": "VENTAS DE EXPORTACIÓN",
+            "majorAccount": "510101",
+            "accountLevel": "5",
+            "accountType": "Mayor",
+            "uploadAs": "Resultado Acreedoras",
+            "subAccount": false,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 420,
+            "code": "510102",
+            "name": "REBAJAS Y DEVOLUCIONES SOBRE VENTAS",
+            "majorAccount": "5101",
+            "accountLevel": "4",
+            "accountType": "Mayor",
+            "uploadAs": "Resultado Acreedoras",
+            "subAccount": true,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 421,
+            "code": "51010201",
+            "name": "REBAJAS SOBRE VENTAS",
+            "majorAccount": "510102",
+            "accountLevel": "5",
+            "accountType": "Mayor",
+            "uploadAs": "Resultado Acreedoras",
+            "subAccount": false,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 422,
+            "code": "51010202",
+            "name": "DEVOLUCIONES SOBRE VENTAS",
+            "majorAccount": "510102",
+            "accountLevel": "5",
+            "accountType": "Mayor",
+            "uploadAs": "Resultado Acreedoras",
+            "subAccount": false,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 423,
+            "code": "510201",
+            "name": "GANANCIA EN VENTA DE ACTIVOS FIJOS",
+            "majorAccount": "5102",
+            "accountLevel": "4",
+            "accountType": "Mayor",
+            "uploadAs": "Resultado Acreedoras",
+            "subAccount": false,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 425,
+            "code": "5201",
+            "name": "PRODUCTOS FINANCIEROS",
+            "majorAccount": "52",
+            "accountLevel": "3",
+            "accountType": "Mayor",
+            "uploadAs": "Resultado Acreedoras",
+            "subAccount": true,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [
+                {
+                    "conceptOfTheTransaction": "REGISTRO DE OPERACIONES CUENTA DE AHORROS DICIEMBRE 2024",
+                    "should": "0.00",
+                    "see": "313.53",
+                    "item": {
+                        "noPartida": 11,
+                        "date": "2025-03-03"
+                    },
+                    "accountCatalog": {
+                        "code": "520101",
+                        "name": "INTERESES BANCARIOS"
+                    }
+                },
+                {
+                    "conceptOfTheTransaction": "REGISTRO DE OPERACIONES CUENTA DE AHORROS DICIEMBRE 2024",
+                    "should": "0.00",
+                    "see": "995.44",
+                    "item": {
+                        "noPartida": 11,
+                        "date": "2025-03-03"
+                    },
+                    "accountCatalog": {
+                        "code": "520101",
+                        "name": "INTERESES BANCARIOS"
+                    }
+                }
+            ],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 430,
+            "code": "5203",
+            "name": "INDEMNIZACIONES POR SINIESTROS",
+            "majorAccount": "52",
+            "accountLevel": "3",
+            "accountType": "Mayor",
+            "uploadAs": "Resultado Acreedoras",
+            "subAccount": true,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 432,
+            "code": "5204",
+            "name": "OTROS PRODUCTOS",
+            "majorAccount": "52",
+            "accountLevel": "3",
+            "accountType": "Mayor",
+            "uploadAs": "Resultado Acreedoras",
+            "subAccount": true,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 438,
+            "code": "6101",
+            "name": "PERDIDAS Y GANANCIAS",
+            "majorAccount": "61",
+            "accountLevel": "3",
+            "accountType": "Mayor",
+            "uploadAs": "Cuentas de Cierre",
+            "subAccount": true,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 442,
+            "code": "7101",
+            "name": "CUENTAS DE ORDEN POR DERECHOS CONTINGENTES",
+            "majorAccount": "71",
+            "accountLevel": "3",
+            "accountType": "Mayor",
+            "uploadAs": "Orden Deudoras",
+            "subAccount": true,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 444,
+            "code": "7102",
+            "name": "CUENTAS DE ORDEN POR RESPONSABILIDADES CONTINGENTES",
+            "majorAccount": "71",
+            "accountLevel": "3",
+            "accountType": "Mayor",
+            "uploadAs": "Orden Deudoras",
+            "subAccount": true,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 447,
+            "code": "7201",
+            "name": "CUENTAS DE ORDEN POR DERECHOS CONTINGENTES-POR CONTRA",
+            "majorAccount": "72",
+            "accountLevel": "3",
+            "accountType": "Mayor",
+            "uploadAs": "Orden Deudoras",
+            "subAccount": false,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [],
+            "saldoAnterior": 0
+        },
+        {
+            "id": 448,
+            "code": "7202",
+            "name": "CUENTAS DE ORDEN POR RESPONSABILIDADES CONTINGENTES - POR",
+            "majorAccount": "72",
+            "accountLevel": "3",
+            "accountType": "Mayor",
+            "uploadAs": "Orden Deudoras",
+            "subAccount": false,
+            "item": "Ingreso",
+            "isActive": true,
+            "items": [],
+            "saldoAnterior": 0
+        }
+    ],
+    "ok": true
+}

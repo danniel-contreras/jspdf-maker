@@ -12,11 +12,13 @@
   "dependencies": {
     "jspdf": "^2.5.2",
     "jspdf-autotable": "^3.8.4",
+    "luxon": "^3.5.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.19.0",
+    "@types/luxon": "^3.4.2",
     "@types/react": "^19.0.8",
     "@types/react-dom": "^19.0.3",
     "@vitejs/plugin-react-swc": "^3.5.0",
