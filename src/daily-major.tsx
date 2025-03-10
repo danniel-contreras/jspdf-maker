@@ -16,7 +16,65 @@ function DailyMajor() {
 
   const exportToPdf = () => {
     const doc = new jsPDF();
+    const calcSaldo = (
+      typeAccount: string,
+      totalDbe: number,
+      totalHber: number,
+      saldoAnterior: number,
+      index: number,
+      lastSaldo: number
+    ) => {
+      const saldos: Record<string, number> = {
+        Activo: 0, // O1
+        Pasivo: 0, // O2
+        Patrimonio: 0, // O3
+        "Resultado Deudoras": 0, // O4
+        "Resultado Acreedoras": 0, // O5
+        "Cuentas de Cierre": 0, // O6
+        "Orden Deudoras": 0, // O7
+        "Orden Acreedoras": 0, // O8
+      };
 
+      saldos[typeAccount] = index === 0 ? saldoAnterior : lastSaldo;
+
+      switch (typeAccount) {
+        case "Activo": // O1
+          saldos[typeAccount] += totalDbe - totalHber;
+          break;
+
+        case "Pasivo": // O2
+          saldos[typeAccount] += totalHber - totalDbe;
+          break;
+
+        case "Patrimonio": // O3
+          saldos[typeAccount] += totalHber - totalDbe;
+          break;
+
+        case "Resultado Deudoras": // O4 (Gastos)
+          saldos[typeAccount] += totalDbe - totalHber;
+          break;
+
+        case "Resultado Acreedoras": // O5 (Ingresos)
+          saldos[typeAccount] += totalHber - totalDbe;
+          break;
+
+        case "Cuentas de Cierre": // O6 (No afectan el saldo)
+          break;
+
+        case "Orden Deudoras": // O7
+          saldos[typeAccount] += totalDbe - totalHber;
+          break;
+
+        case "Orden Acreedoras": // O8
+          saldos[typeAccount] += totalHber - totalDbe;
+          break;
+
+        default:
+          break;
+      }
+
+      return saldos[typeAccount];
+    };
     for (const item of dailyMajor.majorAccounts) {
       let saldoAnterior = +item.saldoAnterior;
       if (item.items.length > 0 || saldoAnterior !== 0) {
@@ -26,10 +84,14 @@ function DailyMajor() {
             it.item.noPartida,
             it.accountCatalog.code,
             it.conceptOfTheTransaction ?? it.accountCatalog.name,
-            formatMoney(+it.see),
             formatMoney(+it.should),
+            formatMoney(+it.see),
           ];
         });
+
+        const totalSee = item.items.reduce((acc, it) => acc + +it.see, 0);
+        const totalShould = item.items.reduce((acc, it) => acc + +it.should, 0);
+
         doc.setFontSize(10);
         doc.setFont("helvetica", "bold");
 
@@ -57,16 +119,24 @@ function DailyMajor() {
             : lastAutoTable
             ? lastAutoTable.finalY + 10
             : 30,
-          head: [["", ""]],
+          head: [["", "", "", ""]],
           body: [
-            [item.code,item.name],
+            [
+              item.code,
+              item.name,
+              `Saldo Anterior $ `,
+              formatMoney(saldoAnterior),
+            ],
           ],
           bodyStyles: {
-            fontSize: 10,
+            fontSize: 9,
+            fontStyle: "bold",
           },
           columnStyles: {
             0: { cellWidth: 30, font: "helvetica", fontStyle: "bold" },
-            1: { cellWidth: "auto" },
+            1: { cellWidth: 105 },
+            2: { cellWidth: 30 },
+            3: { cellWidth: 35, halign: "right" },
           },
         });
 
@@ -109,16 +179,6 @@ function DailyMajor() {
             }
           },
           didDrawCell: (data) => {
-            // if (data.section === "foot") {
-            //   doc.setDrawColor(0, 0, 0);
-            //   doc.setLineWidth(0.1);
-            //   doc.line(
-            //     60,
-            //     data.cell.y,
-            //     doc.internal.pageSize.width - 2,
-            //     data.cell.y
-            //   );
-            // }
             if (data.section === "head") {
               doc.setDrawColor(0, 0, 0);
               doc.line(
@@ -176,6 +236,39 @@ function DailyMajor() {
               }
             );
           },
+        });
+        autoTable(doc, {
+          head: [["", "", "", "", "", ""]],
+          showHead: "never",
+          body: [
+            [
+              "",
+              "",
+              "",
+              "Subtotal",
+              formatMoney(totalShould),
+              formatMoney(totalSee),
+            ],
+          ],
+          foot: [
+            [
+              "",
+              "",
+              "",
+              "",
+              "Saldo final",
+              formatMoney(
+                calcSaldo(
+                  item.uploadAs,
+                  totalShould,
+                  totalSee,
+                  saldoAnterior,
+                  0,
+                  saldoAnterior
+                )
+              ),
+            ],
+          ],
         });
       }
     }
