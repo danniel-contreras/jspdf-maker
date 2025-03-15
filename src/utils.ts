@@ -85,7 +85,11 @@ export const getHeightText = (doc: jsPDF, text: string) => {
   return dimensions.h;
 };
 
-export const formatAddress = (dep_code: string, mun_code: string) => {
+export const formatAddress = (
+  dep_code: string,
+  mun_code: string,
+  showDep: boolean = true
+) => {
   const service = new SeedcodeCatalogosMhService();
 
   const deparment = service
@@ -97,15 +101,26 @@ export const formatAddress = (dep_code: string, mun_code: string) => {
     if (municipio) {
       const munici = municipio.find((mun) => mun.codigo === mun_code);
       if (munici) {
-        return `${munici.valores}, ${deparment.valores}`;
+        return showDep
+          ? `${munici.valores}, ${deparment.valores}`
+          : `${munici.valores}`;
       }
-      return `${deparment.valores}`;
+      return showDep ? `${deparment.valores}` : "";
     }
-    return `${deparment.valores}`;
+    return showDep ? `${deparment.valores}` : "";
   }
   return "";
 };
 
+export const formatDepto = (dep_code: string) => {
+  const service = new SeedcodeCatalogosMhService();
+
+  const deparment = service
+    .get012Departamento()
+    .find((dep) => dep.codigo === dep_code);
+
+  return deparment ? deparment.valores : "";
+};
 
 export const returnBoldText = (
   doc: jsPDF,
@@ -133,5 +148,62 @@ export const formatNameByTypeDte = (typeDte: string) => {
       return "COMPROBANTE DE FACTURA DE SUJETO EXCLUIDO";
     default:
       return "";
+  }
+};
+
+export const splitTextIntoLines = (
+  doc: jsPDF,
+  text: string,
+  maxWidth: number,
+  fontSize: number
+) => {
+  const words = text.split(" ");
+  const lines = [];
+  let currentLine = words[0];
+
+  for (let i = 1; i < words.length; i++) {
+    const word = words[i];
+    const width =
+      (doc.getStringUnitWidth(currentLine + " " + word) * fontSize) /
+      doc.internal.scaleFactor;
+    if (width < maxWidth) {
+      currentLine += " " + word;
+    } else {
+      lines.push(currentLine);
+      currentLine = word;
+    }
+  }
+  lines.push(currentLine);
+  return lines;
+};
+
+export const getDayMonthAndYear = (date: string) => {
+  const format = DateTime.fromISO(date, { zone: "America/El_Salvador" });
+  const formattedStartDate = format.toLocaleString(DateTime.DATE_FULL);
+  return formattedStartDate;
+};
+
+export const getDateSeparated = (date: string) => {
+  const [year, month, day] = date.split("-");
+  const meses = [
+    "Enero",
+    "Febrero",
+    "Marzo",
+    "Abril",
+    "Mayo",
+    "Junio",
+    "Julio",
+    "Agosto",
+    "Septiembre",
+    "Octubre",
+    "Noviembre",
+    "Diciembre",
+  ];
+  const monthS = meses[parseInt(month) - 1];
+
+  return {
+    day,
+    month: monthS,
+    year
   }
 };
