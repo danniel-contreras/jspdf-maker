@@ -1,0 +1,125 @@
+{
+  "identificacion": {
+    "version": 3,
+    "ambiente": "00",
+    "tipoDte": "04",
+    "numeroControl": "DTE-04-S004P003-000000000000003",
+    "tipoModelo": 1,
+    "tipoOperacion": 1,
+    "tipoContingencia": null,
+    "motivoContin": null,
+    "tipoMoneda": "USD",
+    "fecEmi": "2025-03-14",
+    "horEmi": "12:13:54",
+    "codigoGeneracion": "65547665-EEA7-47ED-A4DC-6BB9FE4D68E8"
+  },
+  "documentoRelacionado": null,
+  "emisor": {
+    "nit": "03030507781010",
+    "nrc": "2144309",
+    "nombre": "MELGAR DE RAMOS, IDALIA MARISOL",
+    "tipoEstablecimiento": "02",
+    "nombreComercial": "EL GUANAQUITO AGROFERRETERIA",
+    "codActividad": "46211",
+    "descActividad": "Venta de productos para uso agropecuario",
+    "direccion": {
+      "departamento": "03",
+      "municipio": "19",
+      "complemento": "AV. MORAZON ENTRE 5 Y 7 CALLE PTE. #33, BARRIO DOLORES, IZALCO, SONSONATE"
+    },
+    "telefono": "2453-0000",
+    "correo": "contrerasdannniel@gmail.com",
+    "codEstable": "S004",
+    "codEstableMH": null,
+    "codPuntoVenta": "P003",
+    "codPuntoVentaMH": null
+  },
+  "receptor": {
+    "bienTitulo": "01",
+    "nombreComercial": null,
+    "tipoDocumento": "37",
+    "numDocumento": "0",
+    "nrc": null,
+    "nombre": "CLIENTE VARIOS",
+    "codActividad": null,
+    "descActividad": null,
+    "direccion": {
+      "departamento": "03",
+      "municipio": "17",
+      "complemento": "Primera calle oriente, Colonia Santa Lucia Lote #6"
+    },
+    "telefono": "70245680",
+    "correo": "contrerasdannniel@gmail.com"
+  },
+  "ventaTercero": null,
+  "cuerpoDocumento": [
+    {
+      "numItem": 1,
+      "tipoItem": 1,
+      "uniMedida": 26,
+      "numeroDocumento": null,
+      "cantidad": 5,
+      "codigo": "03",
+      "codTributo": null,
+      "descripcion": "HONOR 6 MAGIC LITE",
+      "precioUni": 200,
+      "montoDescu": 0,
+      "ventaNoSuj": 0,
+      "ventaExenta": 0,
+      "ventaGravada": 1000,
+      "tributos": null
+    },
+    {
+      "numItem": 2,
+      "tipoItem": 1,
+      "uniMedida": 26,
+      "numeroDocumento": null,
+      "cantidad": 5,
+      "codigo": "02",
+      "codTributo": null,
+      "descripcion": "HONOR X8a",
+      "precioUni": 100,
+      "montoDescu": 0,
+      "ventaNoSuj": 0,
+      "ventaExenta": 0,
+      "ventaGravada": 500,
+      "tributos": null
+    }
+  ],
+  "resumen": {
+    "totalNoSuj": 0,
+    "totalExenta": 0,
+    "totalGravada": 1500,
+    "subTotalVentas": 1500,
+    "descuNoSuj": 0,
+    "descuExenta": 0,
+    "descuGravada": 0,
+    "porcentajeDescuento": 0,
+    "totalDescu": 0,
+    "tributos": null,
+    "subTotal": 1500,
+    "montoTotalOperacion": 1500,
+    "totalLetras": "MIL QUINIENTOS 00/100 DOLARES AMERICANOS"
+  },
+  "extension": {
+    "nombEntrega": "Daniel Contreras",
+    "docuEntrega": "06201758-4",
+    "nombRecibe": "ALBERTO RODRIGUEZ, BILLY ALEXANDER",
+    "docuRecibe": "03152005761013",
+    "observaciones": "NADA"
+  },
+  "apendice": null,
+  "respuestaMH": {
+    "version": 2,
+    "ambiente": "00",
+    "versionApp": 2,
+    "estado": "PROCESADO",
+    "codigoGeneracion": "65547665-EEA7-47ED-A4DC-6BB9FE4D68E8",
+    "selloRecibido": "202553F5861B8F6546DF80C348A808C36CC5URHA",
+    "fhProcesamiento": "14/03/2025 13:44:48",
+    "clasificaMsg": "10",
+    "codigoMsg": "001",
+    "descripcionMsg": "RECIBIDO",
+    "observaciones": []
+  }
+}
