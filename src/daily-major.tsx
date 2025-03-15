@@ -8,7 +8,7 @@ function DailyMajor() {
   const [pdf, setPdf] = useState("");
 
   function formatMoney(amount: number): string {
-    return amount.toLocaleString("en-US", {
+    return Math.abs(amount).toLocaleString("en-US", {
       minimumFractionDigits: 2,
       maximumFractionDigits: 2,
     });
@@ -76,7 +76,7 @@ function DailyMajor() {
       return saldos[typeAccount];
     };
     for (const item of dailyMajor.majorAccounts) {
-      let saldoAnterior = +item.saldoAnterior;
+      const saldoAnterior = +item.saldoAnterior;
       if (item.items.length > 0 || saldoAnterior !== 0) {
         const data = item.items.map((it) => {
           return [
@@ -237,7 +237,34 @@ function DailyMajor() {
             );
           },
         });
+
+        lastAutoTable = (
+          doc as unknown as {
+            lastAutoTable: { finalY: number };
+          }
+        ).lastAutoTable;
+
         autoTable(doc, {
+          margin: {
+            horizontal: 3,
+            top: 35,
+          },
+          startY: lastAutoTable ? lastAutoTable.finalY + 2 : 5,
+          theme: "plain",
+          columnStyles: {
+            0: { cellWidth: 20 },
+            1: { cellWidth: 20 },
+            2: { cellWidth: 28 },
+            3: { cellWidth: "auto", halign: "right" },
+            4: { cellWidth: 38, halign: "right" },
+            5: { cellWidth: 38, halign: "right" },
+          },
+          bodyStyles:{
+            fontSize: 9,
+          },
+          footStyles:{
+            fontSize: 9,
+          },
           head: [["", "", "", "", "", ""]],
           showHead: "never",
           body: [
@@ -245,7 +272,7 @@ function DailyMajor() {
               "",
               "",
               "",
-              "Subtotal",
+              "Subtotal $",
               formatMoney(totalShould),
               formatMoney(totalSee),
             ],
@@ -256,7 +283,7 @@ function DailyMajor() {
               "",
               "",
               "",
-              "Saldo final",
+              "Saldo final $",
               formatMoney(
                 calcSaldo(
                   item.uploadAs,
@@ -269,6 +296,54 @@ function DailyMajor() {
               ),
             ],
           ],
+          didParseCell: (data) => {
+            if (data.section === "foot") {
+              if (data.column.index === 4 || data.column.index === 5) {
+                data.cell.styles.halign = "right";
+              }
+            }
+          },
+          didDrawCell: (data) => {
+            if(data.section === 'body'){
+              if(data.row.index === 0){
+                doc.setDrawColor(0, 0, 0);
+                doc.line(
+                  110,
+                  data.cell.y,
+                  doc.internal.pageSize.width - 2,
+                  data.cell.y
+                );
+              }
+              
+            }
+            if (data.section === "foot") {
+              doc.setDrawColor(0, 0, 0);
+              doc.line(
+                110,
+                data.cell.y,
+                doc.internal.pageSize.width - 2,
+                data.cell.y
+              );
+              doc.line(
+                110,
+                data.cell.y - 1,
+                doc.internal.pageSize.width - 2,
+                data.cell.y - 1
+              );
+              doc.line(
+                170,
+                data.cell.y + data.cell.height - 1,
+                doc.internal.pageSize.width - 2,
+                data.cell.y + data.cell.height - 1
+              );
+              doc.line(
+                170,
+                data.cell.y + data.cell.height,
+                doc.internal.pageSize.width - 2,
+                data.cell.y + data.cell.height
+              );
+            }
+          },
         });
       }
     }

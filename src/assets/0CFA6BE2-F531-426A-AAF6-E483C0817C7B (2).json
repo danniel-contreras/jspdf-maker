@@ -1,0 +1,129 @@
+{
+  "identificacion": {
+    "version": 3,
+    "ambiente": "00",
+    "tipoDte": "03",
+    "numeroControl": "DTE-03-S004P003-000000000015003",
+    "tipoModelo": 1,
+    "tipoOperacion": 1,
+    "tipoContingencia": null,
+    "motivoContin": null,
+    "tipoMoneda": "USD",
+    "fecEmi": "2025-03-06",
+    "horEmi": "16:13:54",
+    "codigoGeneracion": "0CFA6BE2-F531-426A-AAF6-E483C0817C7B"
+  },
+  "documentoRelacionado": null,
+  "emisor": {
+    "nit": "03030507781010",
+    "nrc": "2144309",
+    "nombre": "MELGAR DE RAMOS, IDALIA MARISOL",
+    "tipoEstablecimiento": "02",
+    "nombreComercial": "EL GUANAQUITO AGROFERRETERIA",
+    "codActividad": "46211",
+    "descActividad": "Venta de productos para uso agropecuario",
+    "direccion": {
+      "departamento": "03",
+      "municipio": "19",
+      "complemento": "AV. MORAZON ENTRE 5 Y 7 CALLE PTE. #33, BARRIO DOLORES, IZALCO, SONSONATE"
+    },
+    "telefono": "2453-0000",
+    "correo": "contrerasdannniel@gmail.com",
+    "codEstable": "S004",
+    "codEstableMH": null,
+    "codPuntoVenta": "P003",
+    "codPuntoVentaMH": null
+  },
+  "receptor": {
+    "nit": "03152005761013",
+    "nrc": "2646308",
+    "nombre": "ALBERTO RODRIGUEZ, BILLY ALEXANDER",
+    "codActividad": "96030",
+    "descActividad": "Pompas funebres y actividades conexas",
+    "nombreComercial": "Funeraria El Lirio De Los Valles",
+    "direccion": {
+      "departamento": "03",
+      "municipio": "16",
+      "complemento": "Avenida Santa Lucia, Block K, Casa #5"
+    },
+    "telefono": "70245680",
+    "correo": "contrerasdannniel@gmail.com"
+  },
+  "otrosDocumentos": null,
+  "cuerpoDocumento": [
+    {
+      "numItem": 1,
+      "tipoItem": 1,
+      "uniMedida": 59,
+      "numeroDocumento": null,
+      "cantidad": 1,
+      "codigo": "CHURR140",
+      "codTributo": null,
+      "descripcion": "CHURRASCO",
+      "precioUni": 4.87,
+      "montoDescu": 2.43,
+      "ventaNoSuj": 0,
+      "ventaExenta": 0,
+      "ventaGravada": 2.43,
+      "tributos": [
+        "20"
+      ],
+      "psv": 4.87,
+      "noGravado": 0
+    }
+  ],
+  "resumen": {
+    "totalNoSuj": 0,
+    "totalExenta": 0,
+    "totalGravada": 2.43,
+    "subTotalVentas": 2.43,
+    "descuNoSuj": 0,
+    "descuExenta": 0,
+    "descuGravada": 0,
+    "porcentajeDescuento": 50,
+    "totalDescu": 2.43,
+    "tributos": [
+      {
+        "codigo": "20",
+        "descripcion": "Impuesto al Valor Agregado 13%",
+        "valor": 0.32
+      }
+    ],
+    "subTotal": 2.43,
+    "ivaRete1": 0,
+    "reteRenta": 0,
+    "ivaPerci1": 0,
+    "montoTotalOperacion": 2.75,
+    "totalNoGravado": 0,
+    "totalPagar": 2.75,
+    "totalLetras": "DOS 75/100 DOLARES AMERICANOS",
+    "saldoFavor": 0,
+    "condicionOperacion": 1,
+    "pagos": [
+      {
+        "codigo": "01",
+        "plazo": null,
+        "periodo": null,
+        "montoPago": 2.75,
+        "referencia": ""
+      }
+    ],
+    "numPagoElectronico": null
+  },
+  "apendice": null,
+  "extension": null,
+  "ventaTercero": null,
+  "respuestaMH": {
+    "version": 2,
+    "ambiente": "00",
+    "versionApp": 2,
+    "estado": "PROCESADO",
+    "codigoGeneracion": "0CFA6BE2-F531-426A-AAF6-E483C0817C7B",
+    "selloRecibido": "20256D6991CE98FA4B08995846DD6860F13CGZEB",
+    "fhProcesamiento": "06/03/2025 19:03:28",
+    "clasificaMsg": "10",
+    "codigoMsg": "001",
+    "descripcionMsg": "RECIBIDO",
+    "observaciones": []
+  }
+}

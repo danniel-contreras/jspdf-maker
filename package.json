@@ -14,11 +14,14 @@
     "jspdf-autotable": "^3.8.4",
     "luxon": "^3.5.0",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "seedcode-catalogos-mh": "^8.1.0",
+    "seedcode-facturacion-electronica-pdf": "^1.1.1"
   },
   "devDependencies": {
     "@eslint/js": "^9.19.0",
     "@types/luxon": "^3.4.2",
+    "@types/node": "^22.13.10",
     "@types/react": "^19.0.8",
     "@types/react-dom": "^19.0.3",
     "@vitejs/plugin-react-swc": "^3.5.0",

@@ -1,0 +1,126 @@
+{
+  "identificacion": {
+    "version": 3,
+    "ambiente": "00",
+    "tipoDte": "04",
+    "numeroControl": "DTE-04-M001P001-000000000000117",
+    "codigoGeneracion": "9F95D514-531B-4AC8-BDA2-E225F47286A4",
+    "tipoModelo": 1,
+    "tipoOperacion": 1,
+    "tipoContingencia": null,
+    "motivoContin": null,
+    "tipoMoneda": "USD",
+    "fecEmi": "2025-01-02",
+    "horEmi": "18:59:20"
+  },
+  "documentoRelacionado": null,
+  "emisor": {
+    "nit": "01110901971025",
+    "nrc": "3204088",
+    "nombre": "DAVID ALFONSO, GARCIA JOAQUIN",
+    "nombreComercial": "AGROSERVICIO EL COMPADRE",
+    "codActividad": "46211",
+    "descActividad": "Venta de productos para uso agropecuario \r\n",
+    "tipoEstablecimiento": "01",
+    "direccion": {
+      "departamento": "02",
+      "municipio": "04",
+      "complemento": "Parque de caluco e"
+    },
+    "telefono": "78753342",
+    "correo": "contrerasdannniel@gmail.com",
+    "codEstable": "M001",
+    "codEstableMH": "M001",
+    "codPuntoVenta": "P001",
+    "codPuntoVentaMH": "P001"
+  },
+  "receptor": {
+    "bienTitulo": "01",
+    "nombreComercial": "Funeraria El Lirio De Los Valles",
+    "tipoDocumento": "36",
+    "numDocumento": "03152005761013",
+    "nrc": "2646308",
+    "nombre": "ALBERTO RODRIGUEZ, BILLY ALEXANDER",
+    "codActividad": "96030",
+    "descActividad": "Pompas funebres y actividades conexas",
+    "direccion": {
+      "departamento": "03",
+      "municipio": "17",
+      "complemento": "Primera calle oriente, Colonia Santa Lucia Lote #6"
+    },
+    "telefono": "70245680",
+    "correo": "contrerasdannniel@gmail.com"
+  },
+  "ventaTercero": null,
+  "cuerpoDocumento": [
+    {
+      "numItem": 1,
+      "tipoItem": 1,
+      "uniMedida": 26,
+      "numeroDocumento": null,
+      "cantidad": 5,
+      "codigo": "03",
+      "codTributo": null,
+      "descripcion": "HONOR 6 MAGIC LITE",
+      "precioUni": 200,
+      "montoDescu": 0,
+      "ventaNoSuj": 0,
+      "ventaExenta": 0,
+      "ventaGravada": 1000,
+      "tributos": null
+    },
+    {
+      "numItem": 2,
+      "tipoItem": 1,
+      "uniMedida": 26,
+      "numeroDocumento": null,
+      "cantidad": 5,
+      "codigo": "02",
+      "codTributo": null,
+      "descripcion": "HONOR X8a",
+      "precioUni": 100,
+      "montoDescu": 0,
+      "ventaNoSuj": 0,
+      "ventaExenta": 0,
+      "ventaGravada": 500,
+      "tributos": null
+    }
+  ],
+  "resumen": {
+    "totalNoSuj": 0,
+    "totalExenta": 0,
+    "totalGravada": 1500,
+    "subTotalVentas": 1500,
+    "descuNoSuj": 0,
+    "descuExenta": 0,
+    "descuGravada": 0,
+    "porcentajeDescuento": 0,
+    "totalDescu": 0,
+    "tributos": null,
+    "subTotal": 1500,
+    "montoTotalOperacion": 1500,
+    "totalLetras": "MIL QUINIENTOS 00/100 DOLARES AMERICANOS"
+  },
+  "extension": {
+    "nombEntrega": "Daniel Contreras",
+    "docuEntrega": "06201758-4",
+    "nombRecibe": "ALBERTO RODRIGUEZ, BILLY ALEXANDER",
+    "docuRecibe": "03152005761013",
+    "observaciones": "NADA"
+  },
+  "apendice": null,
+  "respuestaMH": {
+    "version": 2,
+    "ambiente": "00",
+    "versionApp": 2,
+    "estado": "PROCESADO",
+    "codigoGeneracion": "9F95D514-531B-4AC8-BDA2-E225F47286A4",
+    "selloRecibido": "2025946569703E234A69A25C426E72B0F42BR60E",
+    "fhProcesamiento": "02/01/2025 18:59:24",
+    "clasificaMsg": "10",
+    "codigoMsg": "001",
+    "descripcionMsg": "RECIBIDO",
+    "observaciones": []
+  },
+  "firma": "eyJhbGciOiJSUzUxMiJ9.ewogICJpZGVudGlmaWNhY2lvbiIgOiB7CiAgICAidmVyc2lvbiIgOiAzLAogICAgImFtYmllbnRlIiA6ICIwMCIsCiAgICAidGlwb0R0ZSIgOiAiMDQiLAogICAgIm51bWVyb0NvbnRyb2wiIDogIkRURS0wNC1NMDAxUDAwMS0wMDAwMDAwMDAwMDAxMTciLAogICAgImNvZGlnb0dlbmVyYWNpb24iIDogIjlGOTVENTE0LTUzMUItNEFDOC1CREEyLUUyMjVGNDcyODZBNCIsCiAgICAidGlwb01vZGVsbyIgOiAxLAogICAgInRpcG9PcGVyYWNpb24iIDogMSwKICAgICJ0aXBvQ29udGluZ2VuY2lhIiA6IG51bGwsCiAgICAibW90aXZvQ29udGluIiA6IG51bGwsCiAgICAidGlwb01vbmVkYSIgOiAiVVNEIiwKICAgICJmZWNFbWkiIDogIjIwMjUtMDEtMDIiLAogICAgImhvckVtaSIgOiAiMTg6NTk6MjAiCiAgfSwKICAiZG9jdW1lbnRvUmVsYWNpb25hZG8iIDogbnVsbCwKICAiZW1pc29yIiA6IHsKICAgICJuaXQiIDogIjAxMTEwOTAxOTcxMDI1IiwKICAgICJucmMiIDogIjMyMDQwODgiLAogICAgIm5vbWJyZSIgOiAiREFWSUQgQUxGT05TTywgR0FSQ0lBIEpPQVFVSU4iLAogICAgIm5vbWJyZUNvbWVyY2lhbCIgOiAiQUdST1NFUlZJQ0lPIEVMIENPTVBBRFJFIiwKICAgICJjb2RBY3RpdmlkYWQiIDogIjQ2MjExIiwKICAgICJkZXNjQWN0aXZpZGFkIiA6ICJWZW50YSBkZSBwcm9kdWN0b3MgcGFyYSB1c28gYWdyb3BlY3VhcmlvIFxyXG4iLAogICAgInRpcG9Fc3RhYmxlY2ltaWVudG8iIDogIjAxIiwKICAgICJkaXJlY2Npb24iIDogewogICAgICAiZGVwYXJ0YW1lbnRvIiA6ICIwMiIsCiAgICAgICJtdW5pY2lwaW8iIDogIjA0IiwKICAgICAgImNvbXBsZW1lbnRvIiA6ICJQYXJxdWUgZGUgY2FsdWNvIGUiCiAgICB9LAogICAgInRlbGVmb25vIiA6ICI3ODc1MzM0MiIsCiAgICAiY29ycmVvIiA6ICJjb250cmVyYXNkYW5ubmllbEBnbWFpbC5jb20iLAogICAgImNvZEVzdGFibGUiIDogIk0wMDEiLAogICAgImNvZEVzdGFibGVNSCIgOiAiTTAwMSIsCiAgICAiY29kUHVudG9WZW50YSIgOiAiUDAwMSIsCiAgICAiY29kUHVudG9WZW50YU1IIiA6ICJQMDAxIgogIH0sCiAgInJlY2VwdG9yIiA6IHsKICAgICJiaWVuVGl0dWxvIiA6ICIwMSIsCiAgICAibm9tYnJlQ29tZXJjaWFsIiA6ICJGdW5lcmFyaWEgRWwgTGlyaW8gRGUgTG9zIFZhbGxlcyIsCiAgICAidGlwb0RvY3VtZW50byIgOiAiMzYiLAogICAgIm51bURvY3VtZW50byIgOiAiMDMxNTIwMDU3NjEwMTMiLAogICAgIm5yYyIgOiAiMjY0NjMwOCIsCiAgICAibm9tYnJlIiA6ICJBTEJFUlRPIFJPRFJJR1VFWiwgQklMTFkgQUxFWEFOREVSIiwKICAgICJjb2RBY3RpdmlkYWQiIDogIjk2MDMwIiwKICAgICJkZXNjQWN0aXZpZGFkIiA6ICJQb21wYXMgZnVuZWJyZXMgeSBhY3RpdmlkYWRlcyBjb25leGFzIiwKICAgICJkaXJlY2Npb24iIDogewogICAgICAiZGVwYXJ0YW1lbnRvIiA6ICIwMyIsCiAgICAgICJtdW5pY2lwaW8iIDogIjE3IiwKICAgICAgImNvbXBsZW1lbnRvIiA6ICJQcmltZXJhIGNhbGxlIG9yaWVudGUsIENvbG9uaWEgU2FudGEgTHVjaWEgTG90ZSAjNiIKICAgIH0sCiAgICAidGVsZWZvbm8iIDogIjcwMjQ1NjgwIiwKICAgICJjb3JyZW8iIDogImNvbnRyZXJhc2Rhbm5uaWVsQGdtYWlsLmNvbSIKICB9LAogICJ2ZW50YVRlcmNlcm8iIDogbnVsbCwKICAiY3VlcnBvRG9jdW1lbnRvIiA6IFsgewogICAgIm51bUl0ZW0iIDogMSwKICAgICJ0aXBvSXRlbSIgOiAxLAogICAgInVuaU1lZGlkYSIgOiAyNiwKICAgICJudW1lcm9Eb2N1bWVudG8iIDogbnVsbCwKICAgICJjYW50aWRhZCIgOiA1LAogICAgImNvZGlnbyIgOiAiMDMiLAogICAgImNvZFRyaWJ1dG8iIDogbnVsbCwKICAgICJkZXNjcmlwY2lvbiIgOiAiSE9OT1IgNiBNQUdJQyBMSVRFIiwKICAgICJwcmVjaW9VbmkiIDogMjAwLAogICAgIm1vbnRvRGVzY3UiIDogMCwKICAgICJ2ZW50YU5vU3VqIiA6IDAsCiAgICAidmVudGFFeGVudGEiIDogMCwKICAgICJ2ZW50YUdyYXZhZGEiIDogMTAwMCwKICAgICJ0cmlidXRvcyIgOiBudWxsCiAgfSwgewogICAgIm51bUl0ZW0iIDogMiwKICAgICJ0aXBvSXRlbSIgOiAxLAogICAgInVuaU1lZGlkYSIgOiAyNiwKICAgICJudW1lcm9Eb2N1bWVudG8iIDogbnVsbCwKICAgICJjYW50aWRhZCIgOiA1LAogICAgImNvZGlnbyIgOiAiMDIiLAogICAgImNvZFRyaWJ1dG8iIDogbnVsbCwKICAgICJkZXNjcmlwY2lvbiIgOiAiSE9OT1IgWDhhIiwKICAgICJwcmVjaW9VbmkiIDogMTAwLAogICAgIm1vbnRvRGVzY3UiIDogMCwKICAgICJ2ZW50YU5vU3VqIiA6IDAsCiAgICAidmVudGFFeGVudGEiIDogMCwKICAgICJ2ZW50YUdyYXZhZGEiIDogNTAwLAogICAgInRyaWJ1dG9zIiA6IG51bGwKICB9IF0sCiAgInJlc3VtZW4iIDogewogICAgInRvdGFsTm9TdWoiIDogMCwKICAgICJ0b3RhbEV4ZW50YSIgOiAwLAogICAgInRvdGFsR3JhdmFkYSIgOiAxNTAwLAogICAgInN1YlRvdGFsVmVudGFzIiA6IDE1MDAsCiAgICAiZGVzY3VOb1N1aiIgOiAwLAogICAgImRlc2N1RXhlbnRhIiA6IDAsCiAgICAiZGVzY3VHcmF2YWRhIiA6IDAsCiAgICAicG9yY2VudGFqZURlc2N1ZW50byIgOiAwLAogICAgInRvdGFsRGVzY3UiIDogMCwKICAgICJ0cmlidXRvcyIgOiBudWxsLAogICAgInN1YlRvdGFsIiA6IDE1MDAsCiAgICAibW9udG9Ub3RhbE9wZXJhY2lvbiIgOiAxNTAwLAogICAgInRvdGFsTGV0cmFzIiA6ICJNSUwgUVVJTklFTlRPUyAwMC8xMDAgRE9MQVJFUyBBTUVSSUNBTk9TIgogIH0sCiAgImV4dGVuc2lvbiIgOiB7CiAgICAibm9tYkVudHJlZ2EiIDogIkRhbmllbCBDb250cmVyYXMiLAogICAgImRvY3VFbnRyZWdhIiA6ICIwNjIwMTc1OC00IiwKICAgICJub21iUmVjaWJlIiA6ICJBTEJFUlRPIFJPRFJJR1VFWiwgQklMTFkgQUxFWEFOREVSIiwKICAgICJkb2N1UmVjaWJlIiA6ICIwMzE1MjAwNTc2MTAxMyIsCiAgICAib2JzZXJ2YWNpb25lcyIgOiAiTkFEQSIKICB9LAogICJhcGVuZGljZSIgOiBudWxsCn0.gtkX-07_3rtegC1sJ1uun0hELbAfOvOwjspXbWKE1fgM2R65qz4Ld4UebUzgM_cDAQrHPFzvN-KpNd-b6L5-PDAuiSC4HZIc3WU7ydApx_qW3ImI8HIF_WU31npvSK9yAWN3DYE338hNCkd8zF8wzZqxm-xFohwOAmUYAFpbfHVasBN0g6uJtkbetIh3TaHCKYtXkwcuoY8NSUf0M-AGhsmfk8WjxAoPMiFTGdc73h5HWFTCXk_U3-FFt6ZvlKzmOdwr0nxrnKg-z3bExImBrul275WmlDo_l_LCzsm_kgI0gJ4Xs6WO2h0uKaigetvTIAo2D2xq0Qoe8U6-vizCiQ"
+}
